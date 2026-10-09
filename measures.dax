@@ -1,0 +1,20 @@
+-- Starter DAX measures for a Power BI model table named retail_sales_sample
+Total Revenue = SUM(retail_sales_sample[revenue])
+Estimated Cost = SUM(retail_sales_sample[estimated_cost])
+Estimated Gross Profit = [Total Revenue] - [Estimated Cost]
+Estimated Gross Margin % = DIVIDE([Estimated Gross Profit], [Total Revenue])
+Total Orders = DISTINCTCOUNT(retail_sales_sample[order_id])
+Unique Customers = DISTINCTCOUNT(retail_sales_sample[customer_id])
+Average Order Value = DIVIDE([Total Revenue], [Total Orders])
+Total Units = SUM(retail_sales_sample[quantity])
+Discounted Revenue =
+CALCULATE([Total Revenue], retail_sales_sample[discount_pct] > 0)
+
+-- Create a Calendar table, then relate Calendar[Date] to order_date and mark it as date table:
+Calendar = CALENDAR(MIN(retail_sales_sample[order_date]), MAX(retail_sales_sample[order_date]))
+
+-- After creating Calendar and its relationship:
+Revenue Previous Month =
+CALCULATE([Total Revenue], DATEADD('Calendar'[Date], -1, MONTH))
+Revenue MoM % =
+DIVIDE([Total Revenue] - [Revenue Previous Month], [Revenue Previous Month])

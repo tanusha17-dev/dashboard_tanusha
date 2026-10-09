@@ -1,0 +1,1201 @@
+order_id,order_date,customer_id,region,sales_channel,product,category,quantity,unit_price,discount_pct,revenue,estimated_cost
+ORD00001,2025-02-02,C0106,East,In-store,Coffee Maker,Home,4,141.62,0.1,509.83,310.57
+ORD00002,2025-09-26,C0189,North,In-store,Coffee Maker,Home,4,46.65,0.05,177.27,117.79
+ORD00003,2025-10-13,C0198,West,Online,Pen Set,Stationery,3,8.32,0.0,24.96,17.13
+ORD00004,2025-11-10,C0152,South,In-store,Coffee Maker,Home,2,128.55,0.05,244.25,208.56
+ORD00005,2025-09-05,C0047,East,In-store,Coffee Maker,Home,4,90.67,0.0,362.68,205.38
+ORD00006,2025-12-03,C0233,West,Online,Pen Set,Stationery,2,6.91,0.05,13.13,9.13
+ORD00007,2025-06-18,C0115,North,In-store,Headphones,Electronics,4,60.17,0.1,216.61,156.72
+ORD00008,2025-08-18,C0075,West,Online,Pen Set,Stationery,1,12.99,0.15,11.04,8.26
+ORD00009,2025-03-29,C0034,West,In-store,Pen Set,Stationery,4,5.4,0.0,21.6,16.33
+ORD00010,2025-06-22,C0188,North,Online,Pen Set,Stationery,2,8.51,0.1,15.32,9.56
+ORD00011,2025-06-10,C0114,East,In-store,Pen Set,Stationery,4,9.78,0.1,35.21,27.79
+ORD00012,2025-02-03,C0073,South,Online,Notebook Pack,Stationery,4,4.43,0.05,16.83,10.36
+ORD00013,2025-12-29,C0057,South,In-store,Coffee Maker,Home,1,37.58,0.0,37.58,22.85
+ORD00014,2025-02-16,C0189,South,Online,Notebook Pack,Stationery,3,13.3,0.05,37.91,30.49
+ORD00015,2025-05-03,C0022,West,In-store,Laptop,Electronics,1,1047.3,0.05,994.93,595.27
+ORD00016,2025-12-09,C0168,East,In-store,Headphones,Electronics,3,94.15,0.05,268.33,172.42
+ORD00017,2025-08-10,C0022,South,In-store,Office Chair,Furniture,5,120.68,0.2,482.72,478.24
+ORD00018,2025-06-16,C0233,East,Online,Office Chair,Furniture,4,292.48,0.1,1052.93,766.07
+ORD00019,2025-01-29,C0217,West,In-store,Laptop,Electronics,3,900.68,0.0,2702.04,1653.07
+ORD00020,2025-07-19,C0206,South,In-store,Headphones,Electronics,3,142.57,0.1,384.94,277.85
+ORD00021,2025-02-21,C0156,North,Online,Notebook Pack,Stationery,1,5.18,0.05,4.92,2.76
+ORD00022,2025-03-10,C0035,South,In-store,Office Chair,Furniture,4,116.88,0.1,420.77,267.04
+ORD00023,2025-12-28,C0084,South,Online,Notebook Pack,Stationery,3,12.27,0.0,36.81,29.73
+ORD00024,2025-06-20,C0020,North,In-store,Coffee Maker,Home,1,93.27,0.05,88.61,74.74
+ORD00025,2025-07-17,C0065,South,Online,Desk,Furniture,5,232.63,0.05,1104.99,757.99
+ORD00026,2025-05-13,C0216,East,In-store,Coffee Maker,Home,1,48.23,0.1,43.41,26.65
+ORD00027,2025-02-13,C0159,East,In-store,Office Chair,Furniture,2,279.02,0.1,502.24,308.22
+ORD00028,2025-12-22,C0009,South,In-store,Headphones,Electronics,2,111.0,0.05,210.9,170.7
+ORD00029,2025-12-18,C0229,West,In-store,Office Chair,Furniture,2,165.64,0.05,314.72,197.7
+ORD00030,2025-03-07,C0011,North,In-store,Headphones,Electronics,3,92.44,0.2,221.86,218.39
+ORD00031,2025-11-05,C0215,South,In-store,Storage Box,Home,2,27.2,0.0,54.4,40.89
+ORD00032,2025-05-30,C0023,West,Online,Office Chair,Furniture,5,284.17,0.0,1420.85,1138.16
+ORD00033,2025-01-12,C0200,East,In-store,Laptop,Electronics,1,734.31,0.0,734.31,513.88
+ORD00034,2025-01-17,C0075,South,Online,Headphones,Electronics,2,145.5,0.2,232.8,195.03
+ORD00035,2025-12-08,C0056,South,In-store,Laptop,Electronics,1,722.5,0.1,650.25,402.11
+ORD00036,2025-12-05,C0140,North,In-store,Pen Set,Stationery,4,5.4,0.15,18.36,15.87
+ORD00037,2025-10-29,C0030,North,Online,Headphones,Electronics,3,168.77,0.05,480.99,308.99
+ORD00038,2025-07-05,C0230,East,In-store,Pen Set,Stationery,2,6.44,0.15,10.95,6.79
+ORD00039,2025-02-24,C0026,North,In-store,Pen Set,Stationery,5,4.68,0.05,22.23,18.95
+ORD00040,2025-03-08,C0194,East,Online,Storage Box,Home,4,25.29,0.1,91.04,53.14
+ORD00041,2025-04-16,C0192,West,In-store,Coffee Maker,Home,2,60.24,0.05,114.46,84.55
+ORD00042,2025-10-02,C0100,West,In-store,Notebook Pack,Stationery,2,9.24,0.05,17.56,13.22
+ORD00043,2025-04-11,C0060,West,Online,Desk,Furniture,3,194.66,0.1,525.58,446.73
+ORD00044,2025-11-18,C0143,West,Online,Laptop,Electronics,3,730.4,0.15,1862.52,1343.43
+ORD00045,2025-12-01,C0040,East,Online,Storage Box,Home,3,18.53,0.0,55.59,30.83
+ORD00046,2025-09-16,C0042,West,Online,Laptop,Electronics,1,679.36,0.1,611.42,492.0
+ORD00047,2025-10-30,C0122,South,Online,Office Chair,Furniture,5,317.5,0.15,1349.38,846.2
+ORD00048,2025-11-21,C0060,North,Online,Headphones,Electronics,2,113.54,0.05,215.73,121.44
+ORD00049,2025-12-04,C0025,East,Online,Notebook Pack,Stationery,5,15.67,0.0,78.35,62.48
+ORD00050,2025-11-02,C0217,East,In-store,Coffee Maker,Home,5,157.34,0.15,668.7,593.05
+ORD00051,2025-08-13,C0033,West,Online,Coffee Maker,Home,4,99.69,0.05,378.82,309.94
+ORD00052,2025-10-14,C0154,North,Online,Desk,Furniture,4,206.59,0.0,826.36,548.18
+ORD00053,2025-08-09,C0089,North,In-store,Headphones,Electronics,2,81.79,0.0,163.58,103.68
+ORD00054,2025-03-27,C0228,South,In-store,Office Chair,Furniture,4,328.25,0.05,1247.35,812.1
+ORD00055,2025-12-17,C0157,North,Online,Coffee Maker,Home,3,134.57,0.05,383.52,286.58
+ORD00056,2025-03-06,C0049,West,In-store,Pen Set,Stationery,1,11.34,0.15,9.64,6.35
+ORD00057,2025-08-21,C0175,West,In-store,Laptop,Electronics,4,696.47,0.15,2368.0,1563.5
+ORD00058,2025-03-03,C0143,North,Online,Coffee Maker,Home,3,131.74,0.1,355.7,317.68
+ORD00059,2025-09-21,C0023,North,In-store,Notebook Pack,Stationery,1,12.63,0.0,12.63,8.71
+ORD00060,2025-06-23,C0126,North,In-store,Desk,Furniture,4,405.57,0.1,1460.05,1083.11
+ORD00061,2025-02-20,C0029,East,Online,Storage Box,Home,5,12.33,0.0,61.65,44.23
+ORD00062,2025-12-03,C0162,East,Online,Coffee Maker,Home,2,73.37,0.15,124.73,109.87
+ORD00063,2025-10-18,C0076,East,Online,Office Chair,Furniture,3,130.98,0.0,392.94,314.68
+ORD00064,2025-09-27,C0176,East,Online,Desk,Furniture,1,321.2,0.15,273.02,242.21
+ORD00065,2025-02-21,C0237,South,In-store,Desk,Furniture,4,387.1,0.2,1238.72,860.2
+ORD00066,2025-11-17,C0030,North,Online,Pen Set,Stationery,1,10.06,0.1,9.05,5.27
+ORD00067,2025-09-21,C0071,East,In-store,Coffee Maker,Home,3,89.61,0.05,255.39,164.14
+ORD00068,2025-09-27,C0027,West,In-store,Coffee Maker,Home,3,159.61,0.15,407.01,289.77
+ORD00069,2025-01-16,C0240,East,In-store,Laptop,Electronics,4,1016.13,0.1,3658.07,2223.83
+ORD00070,2025-11-12,C0058,North,In-store,Laptop,Electronics,2,728.66,0.1,1311.59,844.46
+ORD00071,2025-04-16,C0009,West,In-store,Pen Set,Stationery,5,3.07,0.0,15.35,10.77
+ORD00072,2025-12-18,C0204,North,In-store,Headphones,Electronics,2,33.87,0.15,57.58,54.08
+ORD00073,2025-11-05,C0202,East,In-store,Pen Set,Stationery,5,3.48,0.0,17.4,9.7
+ORD00074,2025-07-17,C0152,North,Online,Pen Set,Stationery,3,13.21,0.0,39.63,29.34
+ORD00075,2025-01-06,C0171,North,In-store,Office Chair,Furniture,1,344.85,0.1,310.37,184.96
+ORD00076,2025-01-02,C0213,West,Online,Laptop,Electronics,2,1040.27,0.0,2080.54,1139.13
+ORD00077,2025-05-18,C0111,South,Online,Storage Box,Home,3,37.01,0.1,99.93,76.8
+ORD00078,2025-04-01,C0073,South,In-store,Storage Box,Home,3,29.39,0.1,79.35,63.02
+ORD00079,2025-02-27,C0123,West,Online,Headphones,Electronics,3,87.63,0.05,249.75,146.11
+ORD00080,2025-12-12,C0074,West,Online,Office Chair,Furniture,1,201.25,0.1,181.12,142.97
+ORD00081,2025-02-26,C0053,South,Online,Desk,Furniture,5,335.32,0.0,1676.6,889.97
+ORD00082,2025-06-24,C0055,East,In-store,Desk,Furniture,1,328.98,0.1,296.08,240.35
+ORD00083,2025-08-03,C0076,East,In-store,Pen Set,Stationery,4,12.45,0.05,47.31,32.34
+ORD00084,2025-07-12,C0124,West,In-store,Office Chair,Furniture,5,281.54,0.15,1196.55,1120.98
+ORD00085,2025-09-25,C0192,North,Online,Notebook Pack,Stationery,2,8.4,0.15,14.28,11.23
+ORD00086,2025-01-21,C0203,South,Online,Laptop,Electronics,5,680.56,0.0,3402.8,2110.55
+ORD00087,2025-09-24,C0179,South,Online,Office Chair,Furniture,1,93.82,0.15,79.75,72.89
+ORD00088,2025-09-16,C0145,North,In-store,Headphones,Electronics,2,43.55,0.05,82.74,70.34
+ORD00089,2025-06-14,C0075,West,In-store,Coffee Maker,Home,3,119.4,0.1,322.38,227.94
+ORD00090,2025-05-02,C0051,South,In-store,Laptop,Electronics,4,938.8,0.0,3755.2,2139.61
+ORD00091,2025-12-02,C0134,East,Online,Storage Box,Home,5,39.05,0.2,156.2,109.82
+ORD00092,2025-11-04,C0020,West,Online,Desk,Furniture,2,402.13,0.05,764.05,531.45
+ORD00093,2025-04-22,C0218,North,Online,Headphones,Electronics,2,31.92,0.0,63.84,38.79
+ORD00094,2025-12-30,C0119,West,In-store,Notebook Pack,Stationery,4,5.18,0.0,20.72,16.02
+ORD00095,2025-07-23,C0161,East,In-store,Pen Set,Stationery,3,12.15,0.0,36.45,22.96
+ORD00096,2025-11-18,C0203,South,In-store,Office Chair,Furniture,5,215.47,0.1,969.61,835.6
+ORD00097,2025-06-07,C0141,West,In-store,Storage Box,Home,2,39.46,0.0,78.92,52.85
+ORD00098,2025-07-08,C0096,North,Online,Laptop,Electronics,1,1154.54,0.1,1039.09,661.84
+ORD00099,2025-04-26,C0006,North,In-store,Headphones,Electronics,2,168.76,0.05,320.64,206.65
+ORD00100,2025-07-26,C0067,West,In-store,Laptop,Electronics,3,1036.67,0.1,2799.01,2533.23
+ORD00101,2025-11-17,C0183,East,In-store,Desk,Furniture,5,461.33,0.1,2075.99,1866.0
+ORD00102,2025-06-18,C0028,West,In-store,Coffee Maker,Home,1,125.21,0.05,118.95,85.89
+ORD00103,2025-06-02,C0237,East,Online,Storage Box,Home,1,18.66,0.1,16.79,13.9
+ORD00104,2025-01-02,C0010,West,Online,Laptop,Electronics,2,1077.54,0.05,2047.33,1757.82
+ORD00105,2025-04-29,C0099,East,In-store,Storage Box,Home,2,37.37,0.0,74.74,51.32
+ORD00106,2025-04-08,C0198,South,Online,Storage Box,Home,3,9.37,0.05,26.7,15.03
+ORD00107,2025-12-07,C0172,South,In-store,Pen Set,Stationery,4,12.28,0.15,41.75,36.44
+ORD00108,2025-05-20,C0057,West,In-store,Laptop,Electronics,5,992.04,0.15,4216.17,2586.0
+ORD00109,2025-04-06,C0008,South,Online,Pen Set,Stationery,3,7.82,0.15,19.94,16.93
+ORD00110,2025-06-01,C0084,South,Online,Coffee Maker,Home,3,140.93,0.0,422.79,294.73
+ORD00111,2025-02-11,C0213,South,In-store,Office Chair,Furniture,3,138.77,0.0,416.31,259.19
+ORD00112,2025-06-05,C0240,North,In-store,Coffee Maker,Home,3,68.53,0.05,195.31,115.35
+ORD00113,2025-03-10,C0169,North,Online,Storage Box,Home,5,30.02,0.05,142.59,119.27
+ORD00114,2025-05-06,C0088,South,Online,Headphones,Electronics,1,35.41,0.0,35.41,18.6
+ORD00115,2025-12-18,C0083,East,In-store,Pen Set,Stationery,5,8.04,0.2,32.16,29.97
+ORD00116,2025-12-24,C0216,South,In-store,Office Chair,Furniture,2,151.13,0.0,302.26,239.61
+ORD00117,2025-12-26,C0142,South,Online,Pen Set,Stationery,2,10.84,0.0,21.68,12.84
+ORD00118,2025-03-06,C0210,East,In-store,Headphones,Electronics,2,68.9,0.1,124.02,104.4
+ORD00119,2025-08-20,C0115,East,In-store,Desk,Furniture,5,497.88,0.1,2240.46,1902.88
+ORD00120,2025-04-08,C0045,South,In-store,Coffee Maker,Home,3,103.08,0.0,309.24,221.38
+ORD00121,2025-10-12,C0104,South,Online,Notebook Pack,Stationery,5,4.5,0.2,18.0,12.4
+ORD00122,2025-01-19,C0016,North,Online,Headphones,Electronics,3,95.54,0.05,272.29,175.92
+ORD00123,2025-11-07,C0093,West,Online,Laptop,Electronics,4,683.29,0.1,2459.84,1590.99
+ORD00124,2025-06-29,C0100,North,Online,Desk,Furniture,2,100.66,0.0,201.32,156.79
+ORD00125,2025-02-10,C0118,South,In-store,Notebook Pack,Stationery,2,8.66,0.05,16.45,13.06
+ORD00126,2025-07-13,C0078,South,Online,Office Chair,Furniture,2,153.05,0.05,290.8,221.92
+ORD00127,2025-09-29,C0224,North,Online,Office Chair,Furniture,2,102.63,0.05,195.0,150.55
+ORD00128,2025-08-09,C0034,West,Online,Laptop,Electronics,2,1155.35,0.0,2310.7,1332.11
+ORD00129,2025-02-26,C0149,East,In-store,Laptop,Electronics,4,782.9,0.1,2818.44,2182.91
+ORD00130,2025-06-30,C0205,West,In-store,Laptop,Electronics,2,990.52,0.0,1981.04,1489.51
+ORD00131,2025-04-17,C0221,North,Online,Office Chair,Furniture,2,208.16,0.1,374.69,339.47
+ORD00132,2025-09-25,C0077,East,Online,Coffee Maker,Home,1,133.9,0.1,120.51,78.32
+ORD00133,2025-08-21,C0019,East,Online,Office Chair,Furniture,5,97.76,0.0,488.8,256.97
+ORD00134,2025-08-29,C0170,North,In-store,Pen Set,Stationery,5,11.86,0.0,59.3,46.67
+ORD00135,2025-03-28,C0035,North,In-store,Headphones,Electronics,4,132.43,0.0,529.72,356.07
+ORD00136,2025-04-07,C0004,East,In-store,Laptop,Electronics,5,1196.2,0.1,5382.9,3337.83
+ORD00137,2025-02-03,C0129,South,In-store,Storage Box,Home,3,31.01,0.0,93.03,49.79
+ORD00138,2025-02-18,C0160,North,Online,Office Chair,Furniture,2,307.42,0.0,614.84,429.6
+ORD00139,2025-11-06,C0061,West,In-store,Coffee Maker,Home,5,109.4,0.1,492.3,349.45
+ORD00140,2025-07-14,C0137,West,In-store,Pen Set,Stationery,4,12.1,0.2,38.72,31.26
+ORD00141,2025-12-11,C0192,West,In-store,Laptop,Electronics,1,936.13,0.05,889.32,513.21
+ORD00142,2025-08-28,C0164,East,Online,Desk,Furniture,1,159.75,0.2,127.8,91.62
+ORD00143,2025-12-02,C0220,East,In-store,Coffee Maker,Home,5,57.58,0.05,273.5,213.06
+ORD00144,2025-08-24,C0125,West,In-store,Desk,Furniture,3,396.69,0.1,1071.06,898.37
+ORD00145,2025-06-12,C0217,North,Online,Laptop,Electronics,4,1126.06,0.1,4053.82,2477.15
+ORD00146,2025-06-07,C0006,West,In-store,Pen Set,Stationery,3,14.75,0.05,42.04,32.56
+ORD00147,2025-08-18,C0077,North,In-store,Desk,Furniture,4,343.5,0.1,1236.6,883.13
+ORD00148,2025-07-30,C0113,West,Online,Storage Box,Home,3,15.28,0.05,43.55,29.26
+ORD00149,2025-05-02,C0165,North,Online,Headphones,Electronics,2,77.62,0.2,124.19,92.07
+ORD00150,2025-06-22,C0212,South,In-store,Coffee Maker,Home,3,66.15,0.0,198.45,114.25
+ORD00151,2025-01-21,C0063,North,In-store,Desk,Furniture,3,118.07,0.05,336.5,286.13
+ORD00152,2025-09-03,C0027,South,In-store,Desk,Furniture,5,200.97,0.0,1004.85,753.08
+ORD00153,2025-10-10,C0237,South,Online,Storage Box,Home,1,44.35,0.2,35.48,24.02
+ORD00154,2025-12-10,C0133,South,In-store,Office Chair,Furniture,2,115.21,0.15,195.86,162.45
+ORD00155,2025-07-10,C0061,East,In-store,Headphones,Electronics,1,49.85,0.15,42.37,34.66
+ORD00156,2025-09-28,C0090,North,Online,Office Chair,Furniture,5,195.26,0.1,878.67,733.89
+ORD00157,2025-08-09,C0029,North,In-store,Storage Box,Home,3,41.16,0.0,123.48,74.01
+ORD00158,2025-08-14,C0100,North,In-store,Headphones,Electronics,4,94.73,0.0,378.92,277.78
+ORD00159,2025-07-29,C0082,South,Online,Coffee Maker,Home,4,99.01,0.0,396.04,235.03
+ORD00160,2025-01-14,C0214,South,In-store,Storage Box,Home,1,36.76,0.05,34.92,24.53
+ORD00161,2025-05-24,C0105,North,Online,Notebook Pack,Stationery,5,5.84,0.0,29.2,23.53
+ORD00162,2025-11-01,C0040,West,Online,Storage Box,Home,1,28.51,0.0,28.51,16.99
+ORD00163,2025-05-19,C0221,West,Online,Laptop,Electronics,1,826.84,0.1,744.16,545.3
+ORD00164,2025-07-12,C0045,South,Online,Notebook Pack,Stationery,4,17.84,0.15,60.66,52.98
+ORD00165,2025-11-03,C0221,North,In-store,Headphones,Electronics,5,77.91,0.0,389.55,242.58
+ORD00166,2025-08-29,C0181,East,Online,Notebook Pack,Stationery,1,15.11,0.0,15.11,12.04
+ORD00167,2025-04-15,C0001,South,Online,Pen Set,Stationery,4,14.92,0.0,59.68,32.14
+ORD00168,2025-10-19,C0037,East,Online,Headphones,Electronics,3,123.0,0.05,350.55,293.93
+ORD00169,2025-06-01,C0111,East,In-store,Pen Set,Stationery,4,10.92,0.1,39.31,28.91
+ORD00170,2025-07-11,C0043,West,Online,Office Chair,Furniture,3,266.3,0.15,679.07,425.08
+ORD00171,2025-04-16,C0180,North,Online,Storage Box,Home,4,44.7,0.05,169.86,128.38
+ORD00172,2025-05-12,C0088,North,In-store,Storage Box,Home,4,35.32,0.05,134.22,97.28
+ORD00173,2025-08-04,C0218,East,Online,Notebook Pack,Stationery,4,9.87,0.1,35.53,24.58
+ORD00174,2025-06-19,C0031,East,In-store,Desk,Furniture,2,136.69,0.1,246.04,195.92
+ORD00175,2025-04-22,C0079,West,Online,Laptop,Electronics,5,758.8,0.1,3414.6,2952.45
+ORD00176,2025-11-30,C0032,South,In-store,Pen Set,Stationery,1,6.3,0.0,6.3,3.81
+ORD00177,2025-11-30,C0049,East,In-store,Storage Box,Home,4,28.06,0.1,101.02,90.45
+ORD00178,2025-09-30,C0151,South,In-store,Office Chair,Furniture,2,173.33,0.2,277.33,221.83
+ORD00179,2025-07-18,C0097,North,In-store,Laptop,Electronics,3,1131.31,0.1,3054.54,2216.86
+ORD00180,2025-11-06,C0078,West,Online,Coffee Maker,Home,2,100.79,0.05,191.5,143.05
+ORD00181,2025-10-23,C0220,North,In-store,Headphones,Electronics,3,168.2,0.15,428.91,410.47
+ORD00182,2025-12-30,C0184,East,In-store,Coffee Maker,Home,2,92.48,0.05,175.71,109.51
+ORD00183,2025-08-20,C0062,East,In-store,Office Chair,Furniture,2,242.35,0.05,460.46,283.87
+ORD00184,2025-04-17,C0041,North,In-store,Coffee Maker,Home,3,30.98,0.0,92.94,70.56
+ORD00185,2025-03-27,C0186,South,Online,Headphones,Electronics,4,42.93,0.05,163.13,140.74
+ORD00186,2025-12-12,C0102,East,Online,Headphones,Electronics,1,121.05,0.15,102.89,98.56
+ORD00187,2025-12-09,C0190,South,Online,Headphones,Electronics,3,66.95,0.15,170.72,144.42
+ORD00188,2025-09-17,C0043,South,In-store,Coffee Maker,Home,3,85.05,0.1,229.63,171.01
+ORD00189,2025-10-18,C0239,East,In-store,Pen Set,Stationery,1,14.99,0.05,14.24,8.22
+ORD00190,2025-02-13,C0077,South,In-store,Storage Box,Home,2,25.06,0.05,47.61,26.84
+ORD00191,2025-10-06,C0189,South,Online,Office Chair,Furniture,2,306.35,0.15,520.8,395.19
+ORD00192,2025-03-27,C0193,East,In-store,Pen Set,Stationery,4,8.9,0.15,30.26,20.05
+ORD00193,2025-12-01,C0037,North,Online,Laptop,Electronics,2,943.61,0.0,1887.22,1011.25
+ORD00194,2025-02-01,C0186,South,Online,Desk,Furniture,5,113.94,0.1,512.73,436.92
+ORD00195,2025-01-10,C0207,North,Online,Headphones,Electronics,1,152.58,0.05,144.95,116.84
+ORD00196,2025-06-04,C0178,East,In-store,Desk,Furniture,3,202.98,0.1,548.05,408.75
+ORD00197,2025-09-18,C0089,West,Online,Desk,Furniture,2,187.68,0.0,375.36,279.81
+ORD00198,2025-10-05,C0043,East,In-store,Laptop,Electronics,2,746.44,0.15,1268.95,954.77
+ORD00199,2025-11-08,C0157,West,In-store,Headphones,Electronics,5,94.55,0.05,449.11,369.94
+ORD00200,2025-12-15,C0047,South,In-store,Coffee Maker,Home,3,58.7,0.1,158.49,106.84
+ORD00201,2025-01-03,C0133,East,Online,Notebook Pack,Stationery,4,15.6,0.1,56.16,32.95
+ORD00202,2025-12-06,C0117,North,In-store,Notebook Pack,Stationery,2,7.64,0.05,14.52,11.42
+ORD00203,2025-05-08,C0093,South,In-store,Notebook Pack,Stationery,1,7.79,0.05,7.4,4.79
+ORD00204,2025-08-22,C0016,West,In-store,Pen Set,Stationery,5,3.01,0.0,15.05,11.86
+ORD00205,2025-10-12,C0214,South,Online,Headphones,Electronics,5,97.84,0.05,464.74,391.68
+ORD00206,2025-05-05,C0141,West,Online,Headphones,Electronics,3,55.3,0.1,149.31,96.92
+ORD00207,2025-06-01,C0102,North,Online,Headphones,Electronics,1,52.3,0.0,52.3,40.69
+ORD00208,2025-05-06,C0014,South,Online,Office Chair,Furniture,2,182.92,0.0,365.84,257.24
+ORD00209,2025-10-20,C0224,South,In-store,Storage Box,Home,1,11.69,0.0,11.69,6.48
+ORD00210,2025-05-29,C0205,North,In-store,Laptop,Electronics,1,1064.85,0.15,905.12,721.77
+ORD00211,2025-06-11,C0097,West,In-store,Laptop,Electronics,2,828.17,0.15,1407.89,1147.94
+ORD00212,2025-12-04,C0235,West,Online,Headphones,Electronics,5,102.29,0.05,485.88,414.92
+ORD00213,2025-10-21,C0141,West,Online,Desk,Furniture,4,151.22,0.0,604.88,349.6
+ORD00214,2025-10-19,C0142,West,In-store,Coffee Maker,Home,1,76.63,0.05,72.8,49.77
+ORD00215,2025-05-19,C0224,West,In-store,Storage Box,Home,5,22.49,0.0,112.45,73.69
+ORD00216,2025-05-21,C0159,North,Online,Desk,Furniture,2,321.76,0.0,643.52,401.38
+ORD00217,2025-07-14,C0040,West,In-store,Laptop,Electronics,2,1047.71,0.05,1990.65,1224.48
+ORD00218,2025-10-04,C0062,North,In-store,Coffee Maker,Home,3,137.48,0.15,350.57,288.39
+ORD00219,2025-12-29,C0227,West,Online,Laptop,Electronics,4,865.87,0.15,2943.96,2402.59
+ORD00220,2025-08-14,C0164,North,In-store,Laptop,Electronics,5,959.47,0.0,4797.35,3564.61
+ORD00221,2025-03-29,C0112,West,In-store,Desk,Furniture,2,102.19,0.1,183.94,126.56
+ORD00222,2025-12-27,C0136,North,Online,Office Chair,Furniture,5,160.29,0.0,801.45,603.07
+ORD00223,2025-03-20,C0232,West,In-store,Notebook Pack,Stationery,2,17.49,0.15,29.73,20.16
+ORD00224,2025-12-18,C0090,North,In-store,Storage Box,Home,3,11.74,0.15,29.94,23.4
+ORD00225,2025-08-21,C0146,North,Online,Storage Box,Home,4,23.72,0.05,90.14,61.22
+ORD00226,2025-11-18,C0202,North,Online,Coffee Maker,Home,2,66.97,0.0,133.94,104.78
+ORD00227,2025-12-10,C0112,North,Online,Notebook Pack,Stationery,3,13.66,0.0,40.98,29.53
+ORD00228,2025-10-16,C0010,South,Online,Notebook Pack,Stationery,1,10.46,0.05,9.94,6.11
+ORD00229,2025-07-29,C0083,North,In-store,Headphones,Electronics,3,40.01,0.15,102.03,77.0
+ORD00230,2025-06-01,C0020,South,Online,Storage Box,Home,2,32.11,0.15,54.59,45.61
+ORD00231,2025-02-18,C0009,East,Online,Desk,Furniture,2,313.84,0.2,502.14,506.92
+ORD00232,2025-03-16,C0073,West,In-store,Pen Set,Stationery,3,13.84,0.0,41.52,33.25
+ORD00233,2025-11-29,C0015,North,In-store,Laptop,Electronics,2,1109.09,0.0,2218.18,1509.4
+ORD00234,2025-11-15,C0096,South,Online,Notebook Pack,Stationery,4,10.23,0.0,40.92,33.17
+ORD00235,2025-10-16,C0069,North,In-store,Headphones,Electronics,3,174.48,0.0,523.44,408.38
+ORD00236,2025-07-17,C0235,West,In-store,Coffee Maker,Home,1,139.48,0.15,118.56,77.84
+ORD00237,2025-04-20,C0131,West,Online,Notebook Pack,Stationery,2,16.58,0.2,26.53,24.25
+ORD00238,2025-06-16,C0093,East,Online,Desk,Furniture,5,244.64,0.05,1162.04,669.0
+ORD00239,2025-07-27,C0108,South,Online,Coffee Maker,Home,4,150.99,0.1,543.56,320.43
+ORD00240,2025-11-11,C0235,West,In-store,Headphones,Electronics,2,58.9,0.05,111.91,94.34
+ORD00241,2025-01-15,C0012,North,In-store,Headphones,Electronics,3,48.81,0.0,146.43,84.72
+ORD00242,2025-05-13,C0129,West,In-store,Storage Box,Home,2,31.16,0.0,62.32,47.37
+ORD00243,2025-08-26,C0228,South,Online,Coffee Maker,Home,4,75.23,0.0,300.92,176.87
+ORD00244,2025-08-15,C0091,East,Online,Storage Box,Home,5,36.52,0.05,173.47,104.97
+ORD00245,2025-03-09,C0162,West,Online,Pen Set,Stationery,1,8.22,0.0,8.22,6.05
+ORD00246,2025-09-19,C0046,North,In-store,Storage Box,Home,4,11.97,0.05,45.49,32.36
+ORD00247,2025-12-08,C0239,West,Online,Desk,Furniture,2,294.51,0.05,559.57,380.82
+ORD00248,2025-09-25,C0055,North,Online,Notebook Pack,Stationery,2,12.93,0.0,25.86,21.06
+ORD00249,2025-06-30,C0115,East,In-store,Storage Box,Home,2,10.23,0.15,17.39,14.62
+ORD00250,2025-11-26,C0154,South,In-store,Desk,Furniture,3,442.49,0.1,1194.72,828.74
+ORD00251,2025-10-11,C0231,South,In-store,Pen Set,Stationery,5,7.45,0.05,35.39,28.45
+ORD00252,2025-01-17,C0111,South,Online,Pen Set,Stationery,3,5.59,0.1,15.09,9.38
+ORD00253,2025-05-17,C0180,North,In-store,Pen Set,Stationery,1,13.74,0.0,13.74,7.6
+ORD00254,2025-10-20,C0048,East,In-store,Headphones,Electronics,2,70.16,0.05,133.3,110.13
+ORD00255,2025-03-03,C0043,South,Online,Pen Set,Stationery,5,7.29,0.05,34.63,20.57
+ORD00256,2025-04-01,C0031,South,Online,Office Chair,Furniture,2,233.06,0.1,419.51,252.16
+ORD00257,2025-03-29,C0180,South,Online,Coffee Maker,Home,3,135.96,0.05,387.49,312.5
+ORD00258,2025-05-04,C0043,West,In-store,Office Chair,Furniture,1,211.55,0.05,200.97,125.3
+ORD00259,2025-03-05,C0066,West,Online,Office Chair,Furniture,1,124.03,0.05,117.83,75.77
+ORD00260,2025-11-25,C0184,North,In-store,Headphones,Electronics,3,169.15,0.05,482.08,361.76
+ORD00261,2025-08-16,C0148,South,Online,Storage Box,Home,3,40.92,0.15,104.35,92.98
+ORD00262,2025-10-05,C0004,South,In-store,Laptop,Electronics,4,912.46,0.05,3467.35,2343.96
+ORD00263,2025-10-06,C0201,North,In-store,Notebook Pack,Stationery,4,5.52,0.0,22.08,16.73
+ORD00264,2025-10-09,C0210,East,Online,Storage Box,Home,4,40.93,0.0,163.72,104.86
+ORD00265,2025-10-28,C0226,North,Online,Notebook Pack,Stationery,4,8.82,0.1,31.75,21.48
+ORD00266,2025-03-23,C0014,North,In-store,Headphones,Electronics,4,172.14,0.05,654.13,530.35
+ORD00267,2025-09-02,C0043,West,Online,Headphones,Electronics,4,150.86,0.0,603.44,479.12
+ORD00268,2025-04-20,C0196,East,Online,Pen Set,Stationery,5,5.82,0.0,29.1,23.55
+ORD00269,2025-01-02,C0104,East,Online,Desk,Furniture,5,201.21,0.1,905.45,756.1
+ORD00270,2025-09-27,C0052,West,Online,Coffee Maker,Home,5,30.56,0.1,137.52,125.02
+ORD00271,2025-03-18,C0125,South,In-store,Headphones,Electronics,5,150.54,0.0,752.7,480.65
+ORD00272,2025-02-27,C0046,East,In-store,Office Chair,Furniture,2,140.83,0.05,267.58,186.97
+ORD00273,2025-07-12,C0166,North,In-store,Pen Set,Stationery,4,14.8,0.05,56.24,37.95
+ORD00274,2025-01-27,C0176,North,Online,Headphones,Electronics,5,141.96,0.0,709.8,468.8
+ORD00275,2025-03-05,C0112,East,In-store,Headphones,Electronics,3,69.86,0.1,188.62,166.05
+ORD00276,2025-08-21,C0066,East,Online,Office Chair,Furniture,4,156.23,0.0,624.92,501.9
+ORD00277,2025-12-06,C0204,West,In-store,Headphones,Electronics,3,86.88,0.0,260.64,148.2
+ORD00278,2025-06-08,C0051,North,Online,Coffee Maker,Home,1,149.26,0.15,126.87,115.6
+ORD00279,2025-07-10,C0209,East,Online,Laptop,Electronics,5,818.19,0.1,3681.86,3059.99
+ORD00280,2025-02-14,C0226,North,In-store,Coffee Maker,Home,1,124.69,0.05,118.46,97.63
+ORD00281,2025-12-26,C0197,West,Online,Pen Set,Stationery,1,11.99,0.0,11.99,6.66
+ORD00282,2025-04-23,C0122,West,In-store,Notebook Pack,Stationery,4,12.16,0.05,46.21,36.78
+ORD00283,2025-10-19,C0177,South,In-store,Headphones,Electronics,4,130.09,0.05,494.34,300.02
+ORD00284,2025-06-15,C0174,South,In-store,Storage Box,Home,1,41.96,0.2,33.57,26.25
+ORD00285,2025-08-29,C0237,North,Online,Desk,Furniture,1,137.52,0.05,130.64,107.63
+ORD00286,2025-07-08,C0092,North,In-store,Coffee Maker,Home,4,157.4,0.15,535.16,384.31
+ORD00287,2025-03-17,C0146,South,Online,Office Chair,Furniture,2,261.2,0.15,444.04,275.48
+ORD00288,2025-12-02,C0136,West,In-store,Pen Set,Stationery,2,8.95,0.0,17.9,11.18
+ORD00289,2025-10-01,C0096,East,Online,Laptop,Electronics,5,1169.83,0.0,5849.15,4357.1
+ORD00290,2025-07-11,C0180,South,In-store,Coffee Maker,Home,2,145.14,0.0,290.28,197.21
+ORD00291,2025-10-19,C0056,North,In-store,Headphones,Electronics,4,29.21,0.2,93.47,85.64
+ORD00292,2025-05-16,C0128,South,Online,Pen Set,Stationery,5,8.71,0.05,41.37,31.01
+ORD00293,2025-01-07,C0195,South,In-store,Storage Box,Home,5,20.93,0.1,94.19,58.85
+ORD00294,2025-03-03,C0222,North,Online,Storage Box,Home,4,20.29,0.0,81.16,47.36
+ORD00295,2025-03-10,C0018,East,In-store,Laptop,Electronics,2,1194.4,0.0,2388.8,1337.16
+ORD00296,2025-09-26,C0186,South,In-store,Notebook Pack,Stationery,1,12.83,0.15,10.91,9.13
+ORD00297,2025-12-09,C0108,South,In-store,Pen Set,Stationery,3,7.15,0.05,20.38,12.25
+ORD00298,2025-10-13,C0037,West,In-store,Office Chair,Furniture,3,154.05,0.15,392.83,286.1
+ORD00299,2025-08-24,C0019,South,In-store,Coffee Maker,Home,5,129.45,0.0,647.25,378.63
+ORD00300,2025-08-26,C0071,South,In-store,Storage Box,Home,1,29.05,0.0,29.05,19.94
+ORD00301,2025-06-12,C0150,East,In-store,Notebook Pack,Stationery,1,5.89,0.1,5.3,4.26
+ORD00302,2025-08-11,C0108,South,Online,Laptop,Electronics,4,874.97,0.0,3499.88,2053.42
+ORD00303,2025-10-31,C0057,West,Online,Pen Set,Stationery,4,12.96,0.05,49.25,38.78
+ORD00304,2025-07-17,C0149,East,In-store,Desk,Furniture,1,471.19,0.05,447.63,319.75
+ORD00305,2025-12-31,C0018,South,Online,Pen Set,Stationery,1,9.19,0.05,8.73,7.32
+ORD00306,2025-07-23,C0231,North,Online,Desk,Furniture,5,280.23,0.0,1401.15,819.78
+ORD00307,2025-08-03,C0104,North,In-store,Laptop,Electronics,4,1073.08,0.1,3863.09,2273.4
+ORD00308,2025-12-23,C0226,South,In-store,Headphones,Electronics,1,50.94,0.1,45.85,31.47
+ORD00309,2025-04-23,C0183,North,In-store,Desk,Furniture,2,192.27,0.15,326.86,257.67
+ORD00310,2025-06-29,C0240,East,Online,Coffee Maker,Home,2,59.11,0.0,118.22,70.36
+ORD00311,2025-08-22,C0239,East,In-store,Notebook Pack,Stationery,4,17.86,0.05,67.87,50.84
+ORD00312,2025-05-27,C0049,West,Online,Storage Box,Home,2,27.56,0.15,46.85,33.68
+ORD00313,2025-03-30,C0237,North,Online,Storage Box,Home,3,41.53,0.1,112.13,74.85
+ORD00314,2025-08-21,C0135,East,In-store,Notebook Pack,Stationery,1,11.08,0.1,9.97,7.12
+ORD00315,2025-10-22,C0080,West,Online,Office Chair,Furniture,3,123.08,0.0,369.24,286.22
+ORD00316,2025-01-21,C0183,North,Online,Headphones,Electronics,1,110.87,0.0,110.87,68.17
+ORD00317,2025-04-04,C0067,West,Online,Pen Set,Stationery,5,3.78,0.0,18.9,13.13
+ORD00318,2025-01-09,C0038,South,Online,Coffee Maker,Home,1,108.85,0.05,103.41,71.06
+ORD00319,2025-06-14,C0215,South,In-store,Coffee Maker,Home,4,31.43,0.0,125.72,99.47
+ORD00320,2025-09-06,C0049,West,In-store,Headphones,Electronics,5,127.3,0.1,572.85,445.44
+ORD00321,2025-11-15,C0073,East,Online,Desk,Furniture,3,290.89,0.05,829.04,512.54
+ORD00322,2025-02-08,C0171,North,In-store,Office Chair,Furniture,3,94.79,0.05,270.15,202.81
+ORD00323,2025-08-19,C0195,East,In-store,Coffee Maker,Home,3,122.52,0.0,367.56,243.51
+ORD00324,2025-09-11,C0011,North,Online,Headphones,Electronics,1,59.66,0.05,56.68,38.43
+ORD00325,2025-02-20,C0223,South,In-store,Coffee Maker,Home,3,56.18,0.15,143.26,88.54
+ORD00326,2025-07-09,C0003,North,In-store,Storage Box,Home,3,36.23,0.2,86.95,86.06
+ORD00327,2025-03-11,C0019,South,Online,Notebook Pack,Stationery,4,15.9,0.1,57.24,44.8
+ORD00328,2025-08-21,C0037,North,In-store,Notebook Pack,Stationery,3,14.36,0.0,43.08,31.83
+ORD00329,2025-07-11,C0123,North,Online,Desk,Furniture,4,224.89,0.2,719.65,665.62
+ORD00330,2025-12-21,C0053,North,Online,Headphones,Electronics,2,96.91,0.15,164.75,143.47
+ORD00331,2025-12-12,C0091,South,In-store,Coffee Maker,Home,4,140.72,0.0,562.88,397.17
+ORD00332,2025-02-15,C0167,East,In-store,Office Chair,Furniture,1,346.7,0.0,346.7,189.48
+ORD00333,2025-11-10,C0018,East,Online,Office Chair,Furniture,2,213.58,0.1,384.44,258.66
+ORD00334,2025-01-10,C0125,South,In-store,Coffee Maker,Home,4,139.56,0.05,530.33,449.88
+ORD00335,2025-03-11,C0213,North,In-store,Laptop,Electronics,2,919.1,0.0,1838.2,1040.07
+ORD00336,2025-02-18,C0069,East,In-store,Laptop,Electronics,3,726.88,0.05,2071.61,1405.0
+ORD00337,2025-04-09,C0008,West,Online,Office Chair,Furniture,3,249.74,0.05,711.76,535.99
+ORD00338,2025-05-31,C0060,North,Online,Laptop,Electronics,3,901.1,0.05,2568.14,2062.86
+ORD00339,2025-11-06,C0143,West,Online,Notebook Pack,Stationery,2,4.31,0.05,8.19,5.37
+ORD00340,2025-09-27,C0188,North,In-store,Laptop,Electronics,1,1168.32,0.0,1168.32,818.31
+ORD00341,2025-11-26,C0190,East,Online,Office Chair,Furniture,4,254.41,0.15,864.99,828.67
+ORD00342,2025-05-14,C0132,North,Online,Desk,Furniture,5,158.7,0.0,793.5,647.73
+ORD00343,2025-01-29,C0203,South,Online,Desk,Furniture,1,229.56,0.05,218.08,186.73
+ORD00344,2025-01-07,C0013,North,Online,Headphones,Electronics,2,171.54,0.0,343.08,230.28
+ORD00345,2025-07-19,C0224,West,In-store,Desk,Furniture,1,300.97,0.2,240.78,179.87
+ORD00346,2025-09-23,C0108,South,In-store,Coffee Maker,Home,1,66.33,0.15,56.38,42.25
+ORD00347,2025-11-29,C0045,East,Online,Storage Box,Home,2,19.15,0.0,38.3,24.42
+ORD00348,2025-09-18,C0044,South,Online,Pen Set,Stationery,3,11.1,0.0,33.3,20.86
+ORD00349,2025-04-21,C0112,South,Online,Pen Set,Stationery,3,7.34,0.15,18.72,15.23
+ORD00350,2025-01-16,C0083,West,Online,Storage Box,Home,3,9.44,0.05,26.9,15.78
+ORD00351,2025-09-05,C0032,North,In-store,Pen Set,Stationery,2,12.68,0.15,21.56,17.8
+ORD00352,2025-06-01,C0239,West,In-store,Pen Set,Stationery,4,7.1,0.0,28.4,19.19
+ORD00353,2025-10-13,C0148,South,Online,Headphones,Electronics,3,27.19,0.15,69.33,48.89
+ORD00354,2025-12-11,C0058,South,Online,Laptop,Electronics,4,800.65,0.0,3202.6,1933.75
+ORD00355,2025-11-30,C0093,East,Online,Desk,Furniture,3,235.6,0.0,706.8,386.56
+ORD00356,2025-03-24,C0182,West,In-store,Headphones,Electronics,2,178.58,0.15,303.59,239.75
+ORD00357,2025-12-07,C0186,North,Online,Office Chair,Furniture,1,288.84,0.15,245.51,227.79
+ORD00358,2025-02-14,C0194,West,In-store,Coffee Maker,Home,4,70.1,0.15,238.34,153.74
+ORD00359,2025-06-12,C0023,East,In-store,Coffee Maker,Home,1,115.31,0.0,115.31,86.6
+ORD00360,2025-10-21,C0206,West,Online,Notebook Pack,Stationery,3,5.37,0.0,16.11,10.38
+ORD00361,2025-08-29,C0064,North,Online,Desk,Furniture,3,257.09,0.05,732.71,604.54
+ORD00362,2025-11-11,C0103,South,Online,Storage Box,Home,5,20.13,0.05,95.62,64.95
+ORD00363,2025-05-17,C0037,South,In-store,Notebook Pack,Stationery,1,8.93,0.1,8.04,5.75
+ORD00364,2025-12-19,C0233,North,Online,Office Chair,Furniture,4,294.03,0.2,940.9,907.31
+ORD00365,2025-12-05,C0041,North,In-store,Notebook Pack,Stationery,3,15.46,0.1,41.74,27.78
+ORD00366,2025-12-10,C0136,North,In-store,Laptop,Electronics,2,1046.57,0.0,2093.14,1463.85
+ORD00367,2025-01-05,C0123,South,In-store,Laptop,Electronics,3,792.21,0.1,2138.97,1320.46
+ORD00368,2025-04-06,C0045,South,Online,Storage Box,Home,2,19.96,0.1,35.93,29.36
+ORD00369,2025-06-21,C0025,South,Online,Headphones,Electronics,4,179.96,0.05,683.85,562.74
+ORD00370,2025-10-09,C0022,South,Online,Storage Box,Home,5,12.22,0.15,51.94,49.14
+ORD00371,2025-04-30,C0109,West,Online,Office Chair,Furniture,4,198.2,0.0,792.8,625.93
+ORD00372,2025-06-24,C0017,East,In-store,Pen Set,Stationery,4,3.47,0.1,12.49,8.63
+ORD00373,2025-06-12,C0228,West,Online,Laptop,Electronics,4,1061.68,0.15,3609.71,2382.16
+ORD00374,2025-12-09,C0129,East,Online,Office Chair,Furniture,5,167.19,0.0,835.95,527.2
+ORD00375,2025-08-31,C0048,North,Online,Desk,Furniture,1,204.76,0.1,184.28,130.32
+ORD00376,2025-09-10,C0186,South,In-store,Notebook Pack,Stationery,5,9.3,0.1,41.85,37.66
+ORD00377,2025-02-14,C0191,East,In-store,Storage Box,Home,5,10.17,0.05,48.31,37.09
+ORD00378,2025-10-20,C0023,North,In-store,Desk,Furniture,1,324.8,0.0,324.8,242.12
+ORD00379,2025-01-30,C0209,East,In-store,Pen Set,Stationery,5,10.55,0.1,47.48,39.37
+ORD00380,2025-07-11,C0009,West,In-store,Coffee Maker,Home,1,102.3,0.0,102.3,79.6
+ORD00381,2025-06-28,C0046,East,Online,Desk,Furniture,1,235.61,0.1,212.05,136.96
+ORD00382,2025-06-30,C0184,North,In-store,Storage Box,Home,4,15.39,0.0,61.56,49.96
+ORD00383,2025-08-03,C0074,East,Online,Notebook Pack,Stationery,2,8.19,0.0,16.38,12.1
+ORD00384,2025-11-25,C0176,North,Online,Laptop,Electronics,5,1171.88,0.1,5273.46,3875.95
+ORD00385,2025-11-15,C0078,East,In-store,Desk,Furniture,1,308.69,0.05,293.26,215.91
+ORD00386,2025-08-14,C0019,North,Online,Storage Box,Home,5,22.23,0.0,111.15,69.54
+ORD00387,2025-04-11,C0184,West,Online,Headphones,Electronics,1,101.92,0.15,86.63,53.99
+ORD00388,2025-01-10,C0020,North,Online,Desk,Furniture,4,205.09,0.2,656.29,478.01
+ORD00389,2025-02-18,C0120,South,Online,Notebook Pack,Stationery,3,12.13,0.05,34.57,27.95
+ORD00390,2025-09-26,C0166,East,Online,Desk,Furniture,1,447.29,0.05,424.93,308.77
+ORD00391,2025-04-29,C0017,North,Online,Headphones,Electronics,4,137.82,0.0,551.28,406.36
+ORD00392,2025-12-28,C0201,East,In-store,Coffee Maker,Home,4,41.56,0.0,166.24,89.25
+ORD00393,2025-09-26,C0132,North,In-store,Headphones,Electronics,3,91.07,0.1,245.89,182.14
+ORD00394,2025-11-21,C0037,North,In-store,Storage Box,Home,3,38.74,0.0,116.22,77.09
+ORD00395,2025-02-10,C0165,South,In-store,Pen Set,Stationery,5,6.16,0.05,29.26,19.4
+ORD00396,2025-04-07,C0079,North,Online,Desk,Furniture,3,222.19,0.0,666.57,419.62
+ORD00397,2025-10-22,C0145,North,Online,Coffee Maker,Home,2,47.39,0.1,85.3,73.39
+ORD00398,2025-06-09,C0003,South,Online,Headphones,Electronics,3,32.32,0.1,87.26,79.13
+ORD00399,2025-05-03,C0018,East,Online,Pen Set,Stationery,1,10.11,0.1,9.1,6.35
+ORD00400,2025-04-22,C0238,South,In-store,Notebook Pack,Stationery,1,7.61,0.0,7.61,4.24
+ORD00401,2025-08-12,C0191,North,Online,Notebook Pack,Stationery,2,14.54,0.15,24.72,22.15
+ORD00402,2025-07-12,C0072,West,In-store,Notebook Pack,Stationery,4,8.62,0.15,29.31,24.98
+ORD00403,2025-07-02,C0129,West,In-store,Desk,Furniture,1,294.85,0.0,294.85,174.26
+ORD00404,2025-02-20,C0224,West,Online,Laptop,Electronics,5,718.11,0.0,3590.55,2691.46
+ORD00405,2025-02-25,C0175,South,In-store,Storage Box,Home,5,10.54,0.1,47.43,37.39
+ORD00406,2025-01-22,C0173,North,In-store,Coffee Maker,Home,5,106.2,0.0,531.0,387.2
+ORD00407,2025-01-22,C0160,South,Online,Notebook Pack,Stationery,1,10.12,0.1,9.11,8.29
+ORD00408,2025-01-03,C0130,South,Online,Headphones,Electronics,4,99.61,0.1,358.6,213.05
+ORD00409,2025-11-07,C0141,South,In-store,Notebook Pack,Stationery,4,13.2,0.1,47.52,37.62
+ORD00410,2025-10-19,C0130,West,In-store,Notebook Pack,Stationery,5,12.49,0.0,62.45,37.59
+ORD00411,2025-12-23,C0163,North,In-store,Coffee Maker,Home,3,41.75,0.1,112.73,73.46
+ORD00412,2025-11-25,C0143,West,In-store,Coffee Maker,Home,2,106.88,0.0,213.76,139.77
+ORD00413,2025-01-14,C0125,South,Online,Pen Set,Stationery,2,7.42,0.0,14.84,8.35
+ORD00414,2025-02-28,C0227,North,Online,Office Chair,Furniture,5,221.34,0.0,1106.7,610.59
+ORD00415,2025-01-14,C0093,West,In-store,Coffee Maker,Home,5,130.43,0.15,554.33,360.8
+ORD00416,2025-11-25,C0097,East,In-store,Storage Box,Home,1,9.88,0.15,8.4,7.76
+ORD00417,2025-12-28,C0051,East,In-store,Notebook Pack,Stationery,4,15.47,0.05,58.79,32.81
+ORD00418,2025-10-10,C0199,East,In-store,Storage Box,Home,3,18.26,0.0,54.78,43.94
+ORD00419,2025-01-21,C0155,South,Online,Notebook Pack,Stationery,4,10.48,0.05,39.82,23.3
+ORD00420,2025-09-14,C0201,West,Online,Headphones,Electronics,2,47.6,0.0,95.2,65.17
+ORD00421,2025-05-09,C0136,South,Online,Headphones,Electronics,2,82.05,0.1,147.69,130.24
+ORD00422,2025-12-18,C0217,East,In-store,Storage Box,Home,1,38.68,0.1,34.81,27.31
+ORD00423,2025-07-07,C0004,North,Online,Pen Set,Stationery,3,14.5,0.1,39.15,32.82
+ORD00424,2025-05-01,C0123,West,Online,Laptop,Electronics,5,928.95,0.05,4412.51,2888.64
+ORD00425,2025-02-20,C0091,West,Online,Notebook Pack,Stationery,5,17.58,0.0,87.9,54.14
+ORD00426,2025-07-20,C0120,East,In-store,Notebook Pack,Stationery,2,13.01,0.2,20.82,15.76
+ORD00427,2025-12-29,C0063,East,In-store,Laptop,Electronics,2,905.05,0.0,1810.1,1276.67
+ORD00428,2025-02-12,C0124,East,Online,Pen Set,Stationery,2,10.25,0.05,19.47,10.91
+ORD00429,2025-06-17,C0239,South,In-store,Pen Set,Stationery,1,3.19,0.1,2.87,2.38
+ORD00430,2025-05-16,C0149,North,In-store,Notebook Pack,Stationery,1,13.75,0.15,11.69,7.65
+ORD00431,2025-05-20,C0201,East,Online,Laptop,Electronics,2,692.21,0.0,1384.42,721.52
+ORD00432,2025-11-13,C0040,East,In-store,Office Chair,Furniture,2,207.28,0.05,393.83,311.04
+ORD00433,2025-10-12,C0030,South,Online,Pen Set,Stationery,5,6.54,0.15,27.8,17.87
+ORD00434,2025-12-08,C0229,East,In-store,Storage Box,Home,3,23.21,0.1,62.67,45.75
+ORD00435,2025-06-29,C0035,North,Online,Laptop,Electronics,1,987.81,0.0,987.81,711.04
+ORD00436,2025-04-21,C0197,North,Online,Storage Box,Home,5,26.23,0.1,118.04,78.87
+ORD00437,2025-04-20,C0207,West,In-store,Headphones,Electronics,2,152.58,0.15,259.39,239.01
+ORD00438,2025-05-09,C0224,South,Online,Headphones,Electronics,3,113.54,0.05,323.59,234.38
+ORD00439,2025-01-22,C0058,East,In-store,Office Chair,Furniture,4,111.43,0.05,423.43,350.48
+ORD00440,2025-09-13,C0103,South,Online,Notebook Pack,Stationery,1,10.5,0.0,10.5,8.05
+ORD00441,2025-09-18,C0183,West,In-store,Pen Set,Stationery,5,9.9,0.15,42.07,30.06
+ORD00442,2025-05-04,C0192,North,Online,Pen Set,Stationery,5,10.97,0.15,46.62,44.86
+ORD00443,2025-03-27,C0179,South,In-store,Coffee Maker,Home,2,88.87,0.15,151.08,113.46
+ORD00444,2025-07-16,C0055,East,Online,Laptop,Electronics,4,1112.38,0.05,4227.04,2839.8
+ORD00445,2025-03-08,C0194,South,Online,Desk,Furniture,3,458.07,0.0,1374.21,951.57
+ORD00446,2025-04-21,C0108,North,In-store,Notebook Pack,Stationery,3,9.58,0.05,27.3,19.96
+ORD00447,2025-02-14,C0197,East,In-store,Desk,Furniture,4,398.26,0.0,1593.04,1210.99
+ORD00448,2025-04-10,C0140,East,In-store,Headphones,Electronics,1,69.22,0.1,62.3,40.95
+ORD00449,2025-03-04,C0123,North,In-store,Office Chair,Furniture,3,336.65,0.05,959.45,790.51
+ORD00450,2025-07-01,C0040,West,In-store,Coffee Maker,Home,1,136.56,0.0,136.56,87.12
+ORD00451,2025-11-07,C0128,North,Online,Pen Set,Stationery,4,7.65,0.15,26.01,22.43
+ORD00452,2025-07-05,C0056,North,Online,Storage Box,Home,2,14.3,0.1,25.74,23.21
+ORD00453,2025-04-20,C0034,East,In-store,Headphones,Electronics,5,158.39,0.0,791.95,531.36
+ORD00454,2025-05-28,C0134,East,Online,Laptop,Electronics,3,931.76,0.15,2375.99,1751.48
+ORD00455,2025-06-06,C0178,East,In-store,Headphones,Electronics,2,146.63,0.0,293.26,187.11
+ORD00456,2025-11-25,C0072,East,Online,Laptop,Electronics,4,955.27,0.0,3821.08,2298.81
+ORD00457,2025-10-19,C0128,South,In-store,Headphones,Electronics,1,134.54,0.1,121.09,73.72
+ORD00458,2025-07-14,C0184,West,Online,Headphones,Electronics,2,80.89,0.1,145.6,94.14
+ORD00459,2025-10-09,C0008,North,Online,Desk,Furniture,5,190.12,0.1,855.54,733.12
+ORD00460,2025-07-27,C0192,East,In-store,Storage Box,Home,3,40.18,0.1,108.49,87.06
+ORD00461,2025-06-09,C0221,East,In-store,Pen Set,Stationery,4,4.21,0.0,16.84,9.12
+ORD00462,2025-07-04,C0163,South,In-store,Desk,Furniture,1,436.45,0.2,349.16,248.14
+ORD00463,2025-03-21,C0012,East,In-store,Storage Box,Home,1,35.9,0.05,34.1,25.65
+ORD00464,2025-02-07,C0033,North,Online,Office Chair,Furniture,3,120.41,0.0,361.23,256.96
+ORD00465,2025-04-25,C0167,South,Online,Headphones,Electronics,4,131.46,0.05,499.55,420.93
+ORD00466,2025-07-16,C0019,North,In-store,Coffee Maker,Home,4,126.18,0.2,403.78,390.64
+ORD00467,2025-07-12,C0085,North,Online,Pen Set,Stationery,5,11.15,0.1,50.18,45.69
+ORD00468,2025-08-11,C0144,East,In-store,Laptop,Electronics,3,715.46,0.0,2146.38,1327.82
+ORD00469,2025-10-19,C0040,South,Online,Headphones,Electronics,5,31.97,0.15,135.87,116.38
+ORD00470,2025-06-12,C0135,North,In-store,Laptop,Electronics,3,805.39,0.1,2174.55,1571.43
+ORD00471,2025-10-02,C0163,West,In-store,Office Chair,Furniture,4,104.05,0.2,332.96,338.88
+ORD00472,2025-01-21,C0053,West,Online,Desk,Furniture,2,425.01,0.1,765.02,498.61
+ORD00473,2025-07-19,C0199,South,Online,Desk,Furniture,2,373.54,0.1,672.37,534.12
+ORD00474,2025-07-10,C0011,West,Online,Office Chair,Furniture,4,294.6,0.05,1119.48,767.69
+ORD00475,2025-10-04,C0142,East,Online,Headphones,Electronics,2,61.05,0.0,122.1,91.61
+ORD00476,2025-08-16,C0104,South,In-store,Desk,Furniture,2,426.02,0.0,852.04,636.82
+ORD00477,2025-06-19,C0104,East,In-store,Pen Set,Stationery,5,11.97,0.05,56.86,38.56
+ORD00478,2025-03-20,C0026,East,In-store,Office Chair,Furniture,3,197.86,0.0,593.58,381.75
+ORD00479,2025-04-20,C0009,South,Online,Storage Box,Home,2,30.99,0.05,58.88,32.61
+ORD00480,2025-12-03,C0053,East,Online,Laptop,Electronics,5,801.01,0.05,3804.8,2718.27
+ORD00481,2025-02-15,C0023,South,Online,Headphones,Electronics,1,110.2,0.0,110.2,75.43
+ORD00482,2025-05-30,C0226,West,In-store,Laptop,Electronics,3,709.57,0.0,2128.71,1200.52
+ORD00483,2025-07-27,C0147,South,Online,Notebook Pack,Stationery,4,17.81,0.0,71.24,57.87
+ORD00484,2025-11-13,C0101,South,In-store,Notebook Pack,Stationery,3,9.38,0.15,23.92,15.89
+ORD00485,2025-06-26,C0156,South,In-store,Desk,Furniture,4,487.16,0.0,1948.64,1552.79
+ORD00486,2025-08-12,C0036,South,Online,Pen Set,Stationery,5,9.4,0.1,42.3,30.87
+ORD00487,2025-10-28,C0206,East,Online,Headphones,Electronics,2,30.34,0.1,54.61,49.75
+ORD00488,2025-11-15,C0162,South,In-store,Headphones,Electronics,1,34.3,0.1,30.87,24.87
+ORD00489,2025-06-23,C0168,East,In-store,Office Chair,Furniture,2,244.52,0.0,489.04,336.92
+ORD00490,2025-12-04,C0114,East,Online,Pen Set,Stationery,4,6.86,0.0,27.44,16.28
+ORD00491,2025-02-26,C0054,East,Online,Storage Box,Home,5,38.15,0.0,190.75,115.42
+ORD00492,2025-02-15,C0192,North,In-store,Office Chair,Furniture,3,339.0,0.15,864.45,575.7
+ORD00493,2025-03-10,C0220,East,Online,Headphones,Electronics,3,105.27,0.0,315.81,179.1
+ORD00494,2025-04-29,C0220,East,In-store,Headphones,Electronics,4,148.58,0.2,475.46,327.01
+ORD00495,2025-02-11,C0131,West,Online,Office Chair,Furniture,5,173.32,0.0,866.6,599.82
+ORD00496,2025-04-04,C0157,South,In-store,Desk,Furniture,1,151.27,0.15,128.58,101.61
+ORD00497,2025-03-12,C0171,West,Online,Pen Set,Stationery,4,11.59,0.15,39.41,32.64
+ORD00498,2025-09-29,C0146,West,In-store,Laptop,Electronics,4,686.49,0.0,2745.96,1477.91
+ORD00499,2025-12-07,C0147,West,In-store,Headphones,Electronics,2,147.58,0.15,250.89,180.89
+ORD00500,2025-11-13,C0114,West,Online,Notebook Pack,Stationery,1,13.17,0.0,13.17,10.72
+ORD00501,2025-08-15,C0143,South,In-store,Coffee Maker,Home,4,61.83,0.1,222.59,134.87
+ORD00502,2025-08-28,C0027,South,In-store,Notebook Pack,Stationery,3,5.11,0.1,13.8,9.32
+ORD00503,2025-06-28,C0168,North,Online,Coffee Maker,Home,3,66.22,0.1,178.79,159.81
+ORD00504,2025-08-01,C0057,North,In-store,Office Chair,Furniture,3,192.25,0.1,519.08,381.97
+ORD00505,2025-03-05,C0034,East,Online,Office Chair,Furniture,3,159.4,0.15,406.47,335.09
+ORD00506,2025-06-21,C0016,North,In-store,Coffee Maker,Home,2,63.01,0.0,126.02,102.78
+ORD00507,2025-09-19,C0002,North,In-store,Notebook Pack,Stationery,5,6.58,0.1,29.61,20.86
+ORD00508,2025-09-03,C0108,South,In-store,Coffee Maker,Home,3,127.44,0.2,305.86,251.68
+ORD00509,2025-09-06,C0060,North,In-store,Storage Box,Home,4,40.8,0.0,163.2,116.61
+ORD00510,2025-08-10,C0119,East,Online,Notebook Pack,Stationery,5,12.64,0.0,63.2,36.95
+ORD00511,2025-03-26,C0107,North,Online,Notebook Pack,Stationery,5,7.42,0.15,31.54,23.45
+ORD00512,2025-11-30,C0044,East,In-store,Desk,Furniture,4,392.65,0.05,1492.07,824.37
+ORD00513,2025-01-26,C0174,North,In-store,Coffee Maker,Home,3,142.98,0.15,364.6,266.48
+ORD00514,2025-02-01,C0065,South,In-store,Notebook Pack,Stationery,4,7.11,0.0,28.44,20.41
+ORD00515,2025-10-27,C0076,West,In-store,Coffee Maker,Home,3,56.68,0.05,161.54,116.31
+ORD00516,2025-05-23,C0220,West,Online,Coffee Maker,Home,1,140.53,0.2,112.42,92.7
+ORD00517,2025-04-07,C0094,North,Online,Laptop,Electronics,2,791.73,0.0,1583.46,1276.21
+ORD00518,2025-01-20,C0183,East,In-store,Storage Box,Home,4,31.71,0.1,114.16,78.57
+ORD00519,2025-06-10,C0226,East,In-store,Headphones,Electronics,1,71.78,0.0,71.78,52.64
+ORD00520,2025-01-02,C0152,West,Online,Desk,Furniture,3,163.8,0.1,442.26,295.42
+ORD00521,2025-08-26,C0080,East,Online,Headphones,Electronics,5,76.34,0.05,362.62,220.29
+ORD00522,2025-04-11,C0031,North,In-store,Notebook Pack,Stationery,2,13.64,0.15,23.19,17.68
+ORD00523,2025-07-17,C0011,East,Online,Laptop,Electronics,4,1046.75,0.1,3768.3,3236.21
+ORD00524,2025-01-27,C0091,North,Online,Coffee Maker,Home,1,69.43,0.0,69.43,56.85
+ORD00525,2025-04-10,C0154,South,Online,Coffee Maker,Home,3,125.56,0.1,339.01,292.88
+ORD00526,2025-05-03,C0144,South,Online,Laptop,Electronics,1,844.62,0.0,844.62,486.37
+ORD00527,2025-01-17,C0014,North,In-store,Laptop,Electronics,5,1153.81,0.0,5769.05,4699.87
+ORD00528,2025-12-11,C0172,North,Online,Headphones,Electronics,1,118.12,0.1,106.31,64.83
+ORD00529,2025-07-17,C0145,East,In-store,Laptop,Electronics,5,1192.63,0.1,5366.84,4372.35
+ORD00530,2025-06-24,C0010,North,In-store,Pen Set,Stationery,2,13.4,0.05,25.46,13.97
+ORD00531,2025-08-17,C0062,West,Online,Storage Box,Home,4,26.19,0.0,104.76,56.29
+ORD00532,2025-12-09,C0208,East,Online,Pen Set,Stationery,1,4.72,0.0,4.72,2.73
+ORD00533,2025-03-31,C0168,East,Online,Notebook Pack,Stationery,3,13.07,0.05,37.25,26.92
+ORD00534,2025-07-26,C0224,East,In-store,Headphones,Electronics,3,143.03,0.15,364.73,341.13
+ORD00535,2025-07-11,C0101,West,Online,Storage Box,Home,5,8.13,0.0,40.65,22.47
+ORD00536,2025-08-17,C0169,West,In-store,Office Chair,Furniture,1,295.57,0.1,266.01,166.68
+ORD00537,2025-04-03,C0004,East,In-store,Office Chair,Furniture,4,162.95,0.0,651.8,392.56
+ORD00538,2025-01-13,C0167,South,Online,Coffee Maker,Home,2,48.07,0.15,81.72,69.52
+ORD00539,2025-04-18,C0117,South,Online,Pen Set,Stationery,2,8.27,0.0,16.54,11.17
+ORD00540,2025-07-07,C0032,East,Online,Headphones,Electronics,1,172.89,0.0,172.89,108.33
+ORD00541,2025-08-29,C0136,West,In-store,Storage Box,Home,5,42.01,0.0,210.05,116.46
+ORD00542,2025-04-19,C0193,East,In-store,Office Chair,Furniture,2,318.65,0.05,605.43,517.11
+ORD00543,2025-05-31,C0118,West,Online,Office Chair,Furniture,5,99.7,0.15,423.72,274.39
+ORD00544,2025-04-10,C0011,North,Online,Notebook Pack,Stationery,1,5.11,0.1,4.6,2.77
+ORD00545,2025-11-03,C0055,South,Online,Office Chair,Furniture,1,139.08,0.1,125.17,112.02
+ORD00546,2025-12-09,C0143,East,In-store,Storage Box,Home,2,31.74,0.1,57.13,46.42
+ORD00547,2025-03-07,C0129,South,Online,Desk,Furniture,3,229.53,0.0,688.59,495.37
+ORD00548,2025-01-13,C0023,North,Online,Office Chair,Furniture,1,139.59,0.1,125.63,98.91
+ORD00549,2025-01-14,C0105,East,Online,Laptop,Electronics,1,844.01,0.1,759.61,585.5
+ORD00550,2025-03-28,C0232,North,Online,Desk,Furniture,1,402.52,0.05,382.39,267.18
+ORD00551,2025-02-19,C0077,South,Online,Storage Box,Home,3,17.47,0.2,41.93,38.55
+ORD00552,2025-12-03,C0007,West,In-store,Laptop,Electronics,2,979.79,0.0,1959.58,1567.7
+ORD00553,2025-07-13,C0148,West,Online,Notebook Pack,Stationery,4,8.09,0.0,32.36,23.99
+ORD00554,2025-02-05,C0075,North,In-store,Laptop,Electronics,4,656.86,0.05,2496.07,1924.09
+ORD00555,2025-07-20,C0204,East,Online,Notebook Pack,Stationery,2,9.69,0.15,16.47,13.02
+ORD00556,2025-01-25,C0066,North,Online,Storage Box,Home,3,8.97,0.0,26.91,16.95
+ORD00557,2025-05-02,C0212,East,In-store,Notebook Pack,Stationery,3,8.09,0.05,23.06,15.1
+ORD00558,2025-05-17,C0025,North,In-store,Headphones,Electronics,1,102.96,0.1,92.66,78.11
+ORD00559,2025-11-19,C0095,North,Online,Coffee Maker,Home,2,34.27,0.0,68.54,36.44
+ORD00560,2025-03-15,C0086,North,In-store,Desk,Furniture,2,324.24,0.05,616.06,469.1
+ORD00561,2025-11-11,C0084,East,Online,Office Chair,Furniture,1,242.14,0.1,217.93,148.77
+ORD00562,2025-08-03,C0156,East,Online,Pen Set,Stationery,2,4.62,0.05,8.78,7.28
+ORD00563,2025-11-13,C0040,East,In-store,Coffee Maker,Home,1,95.94,0.05,91.14,50.18
+ORD00564,2025-07-12,C0230,East,In-store,Desk,Furniture,2,214.7,0.15,364.99,342.11
+ORD00565,2025-07-08,C0165,North,Online,Headphones,Electronics,3,110.09,0.15,280.73,215.26
+ORD00566,2025-11-17,C0168,West,In-store,Headphones,Electronics,2,175.99,0.0,351.98,261.22
+ORD00567,2025-11-07,C0027,East,In-store,Laptop,Electronics,4,1030.58,0.1,3710.09,2228.72
+ORD00568,2025-06-10,C0218,South,Online,Notebook Pack,Stationery,3,16.29,0.15,41.54,32.98
+ORD00569,2025-11-16,C0025,East,Online,Notebook Pack,Stationery,4,13.22,0.0,52.88,35.61
+ORD00570,2025-06-22,C0056,North,In-store,Office Chair,Furniture,4,251.21,0.1,904.36,539.79
+ORD00571,2025-04-14,C0083,South,In-store,Coffee Maker,Home,3,115.67,0.05,329.66,196.5
+ORD00572,2025-09-05,C0211,North,In-store,Laptop,Electronics,5,1158.36,0.15,4923.03,3989.15
+ORD00573,2025-11-25,C0060,South,Online,Storage Box,Home,3,10.81,0.1,29.19,20.06
+ORD00574,2025-06-10,C0144,West,Online,Laptop,Electronics,3,795.22,0.0,2385.66,1269.48
+ORD00575,2025-02-07,C0081,West,In-store,Storage Box,Home,1,33.13,0.1,29.82,20.49
+ORD00576,2025-01-14,C0135,East,In-store,Pen Set,Stationery,5,3.01,0.0,15.05,12.3
+ORD00577,2025-04-18,C0217,South,In-store,Storage Box,Home,1,8.76,0.1,7.88,5.74
+ORD00578,2025-05-08,C0070,South,Online,Laptop,Electronics,2,1063.23,0.1,1913.81,1501.1
+ORD00579,2025-06-26,C0233,South,Online,Office Chair,Furniture,4,204.2,0.05,775.96,560.08
+ORD00580,2025-05-17,C0104,South,In-store,Notebook Pack,Stationery,4,15.57,0.15,52.94,49.8
+ORD00581,2025-04-14,C0170,North,In-store,Desk,Furniture,2,435.33,0.1,783.59,635.58
+ORD00582,2025-03-21,C0180,West,Online,Pen Set,Stationery,2,5.5,0.05,10.45,7.66
+ORD00583,2025-12-16,C0147,East,In-store,Coffee Maker,Home,3,46.79,0.15,119.31,103.19
+ORD00584,2025-05-05,C0206,East,In-store,Desk,Furniture,3,265.61,0.1,717.15,414.51
+ORD00585,2025-12-20,C0137,South,Online,Pen Set,Stationery,1,8.96,0.15,7.62,6.49
+ORD00586,2025-07-09,C0170,West,In-store,Storage Box,Home,4,44.55,0.2,142.56,141.79
+ORD00587,2025-12-01,C0042,East,In-store,Notebook Pack,Stationery,5,11.61,0.1,52.24,39.26
+ORD00588,2025-11-04,C0092,West,Online,Laptop,Electronics,3,928.28,0.05,2645.6,1538.84
+ORD00589,2025-05-19,C0117,North,Online,Coffee Maker,Home,5,36.33,0.0,181.65,120.26
+ORD00590,2025-08-18,C0191,North,Online,Pen Set,Stationery,2,5.74,0.1,10.33,6.5
+ORD00591,2025-05-05,C0131,East,Online,Storage Box,Home,4,40.78,0.0,163.12,100.97
+ORD00592,2025-06-03,C0240,East,In-store,Desk,Furniture,5,145.78,0.15,619.56,567.89
+ORD00593,2025-04-13,C0125,East,In-store,Office Chair,Furniture,1,166.04,0.1,149.44,111.16
+ORD00594,2025-07-06,C0124,West,Online,Notebook Pack,Stationery,3,13.95,0.05,39.76,33.12
+ORD00595,2025-04-18,C0195,North,Online,Storage Box,Home,2,39.85,0.05,75.72,61.46
+ORD00596,2025-03-07,C0034,East,Online,Coffee Maker,Home,5,69.92,0.05,332.12,215.6
+ORD00597,2025-02-21,C0062,East,In-store,Coffee Maker,Home,3,126.89,0.0,380.67,285.4
+ORD00598,2025-08-17,C0174,North,Online,Desk,Furniture,3,466.06,0.15,1188.45,890.83
+ORD00599,2025-09-30,C0071,South,Online,Coffee Maker,Home,2,134.5,0.0,269.0,204.92
+ORD00600,2025-04-06,C0240,North,Online,Laptop,Electronics,3,1128.2,0.15,2876.91,2725.9
+ORD00601,2025-09-06,C0032,West,Online,Office Chair,Furniture,2,220.31,0.0,440.62,352.79
+ORD00602,2025-07-02,C0060,South,Online,Headphones,Electronics,2,55.84,0.0,111.68,80.05
+ORD00603,2025-07-08,C0214,South,Online,Notebook Pack,Stationery,1,12.44,0.1,11.2,7.83
+ORD00604,2025-11-04,C0232,North,In-store,Office Chair,Furniture,2,251.67,0.0,503.34,329.83
+ORD00605,2025-05-28,C0135,North,Online,Pen Set,Stationery,2,13.62,0.1,24.52,19.42
+ORD00606,2025-03-16,C0232,South,Online,Laptop,Electronics,4,979.37,0.05,3721.61,2729.33
+ORD00607,2025-07-27,C0052,East,Online,Coffee Maker,Home,1,134.59,0.05,127.86,81.15
+ORD00608,2025-02-11,C0043,North,Online,Coffee Maker,Home,4,36.73,0.1,132.23,91.83
+ORD00609,2025-04-10,C0207,East,Online,Headphones,Electronics,3,71.09,0.0,213.27,130.69
+ORD00610,2025-10-06,C0020,East,Online,Office Chair,Furniture,5,131.22,0.05,623.29,514.28
+ORD00611,2025-03-22,C0219,South,Online,Headphones,Electronics,5,162.95,0.1,733.27,482.45
+ORD00612,2025-05-04,C0031,West,In-store,Headphones,Electronics,2,83.9,0.1,151.02,105.38
+ORD00613,2025-09-27,C0084,West,In-store,Office Chair,Furniture,1,295.58,0.15,251.24,182.26
+ORD00614,2025-04-19,C0013,East,Online,Office Chair,Furniture,5,281.84,0.0,1409.2,912.76
+ORD00615,2025-02-03,C0023,South,Online,Headphones,Electronics,4,78.94,0.2,252.61,222.47
+ORD00616,2025-09-08,C0145,West,Online,Laptop,Electronics,2,700.74,0.05,1331.41,1044.92
+ORD00617,2025-04-14,C0012,North,Online,Office Chair,Furniture,3,96.44,0.05,274.85,227.12
+ORD00618,2025-06-03,C0165,North,In-store,Notebook Pack,Stationery,5,4.85,0.0,24.25,15.02
+ORD00619,2025-10-25,C0177,East,In-store,Desk,Furniture,5,447.04,0.1,2011.68,1827.67
+ORD00620,2025-11-21,C0200,East,Online,Coffee Maker,Home,5,124.93,0.15,530.95,499.97
+ORD00621,2025-03-02,C0124,West,In-store,Pen Set,Stationery,3,13.21,0.05,37.65,30.35
+ORD00622,2025-11-09,C0060,North,In-store,Storage Box,Home,4,34.26,0.1,123.34,109.75
+ORD00623,2025-06-13,C0139,South,In-store,Notebook Pack,Stationery,4,6.34,0.2,20.29,15.13
+ORD00624,2025-12-17,C0106,West,In-store,Coffee Maker,Home,4,57.46,0.0,229.84,178.57
+ORD00625,2025-01-06,C0173,East,Online,Laptop,Electronics,1,787.59,0.15,669.45,482.69
+ORD00626,2025-11-10,C0123,South,Online,Laptop,Electronics,4,897.91,0.1,3232.48,2368.26
+ORD00627,2025-06-25,C0067,South,Online,Office Chair,Furniture,2,331.24,0.0,662.48,540.88
+ORD00628,2025-05-28,C0060,North,Online,Laptop,Electronics,2,682.13,0.1,1227.83,919.19
+ORD00629,2025-03-23,C0152,East,In-store,Pen Set,Stationery,2,14.28,0.2,22.85,20.68
+ORD00630,2025-06-21,C0118,North,In-store,Coffee Maker,Home,2,121.58,0.0,243.16,181.74
+ORD00631,2025-08-30,C0201,East,In-store,Laptop,Electronics,3,1163.14,0.0,3489.42,2363.88
+ORD00632,2025-03-13,C0031,East,Online,Storage Box,Home,3,20.91,0.1,56.46,36.79
+ORD00633,2025-01-04,C0037,South,In-store,Laptop,Electronics,5,959.28,0.1,4316.76,3427.86
+ORD00634,2025-08-24,C0066,East,Online,Desk,Furniture,1,106.23,0.0,106.23,65.2
+ORD00635,2025-04-10,C0038,South,In-store,Laptop,Electronics,1,1016.35,0.1,914.72,813.8
+ORD00636,2025-12-08,C0034,South,Online,Notebook Pack,Stationery,5,11.9,0.0,59.5,38.63
+ORD00637,2025-12-28,C0068,South,In-store,Desk,Furniture,1,374.33,0.15,318.18,280.96
+ORD00638,2025-02-09,C0008,North,Online,Notebook Pack,Stationery,3,14.12,0.05,40.24,25.47
+ORD00639,2025-10-21,C0150,East,Online,Storage Box,Home,4,25.61,0.1,92.2,65.98
+ORD00640,2025-04-15,C0106,South,Online,Office Chair,Furniture,1,268.25,0.0,268.25,203.47
+ORD00641,2025-05-11,C0155,West,In-store,Pen Set,Stationery,5,10.83,0.1,48.73,43.74
+ORD00642,2025-05-17,C0170,East,Online,Pen Set,Stationery,4,5.84,0.0,23.36,15.12
+ORD00643,2025-12-09,C0094,North,Online,Office Chair,Furniture,5,247.0,0.0,1235.0,940.19
+ORD00644,2025-09-03,C0020,North,Online,Pen Set,Stationery,3,8.64,0.0,25.92,18.73
+ORD00645,2025-03-22,C0078,East,Online,Storage Box,Home,3,28.86,0.0,86.58,61.13
+ORD00646,2025-02-21,C0049,East,Online,Office Chair,Furniture,5,119.0,0.0,595.0,487.73
+ORD00647,2025-03-17,C0229,East,In-store,Laptop,Electronics,1,660.99,0.05,627.94,485.99
+ORD00648,2025-06-20,C0112,North,In-store,Pen Set,Stationery,5,14.69,0.0,73.45,59.94
+ORD00649,2025-10-31,C0062,East,In-store,Storage Box,Home,3,13.27,0.1,35.83,26.86
+ORD00650,2025-11-03,C0149,East,Online,Storage Box,Home,5,19.51,0.05,92.67,54.63
+ORD00651,2025-06-06,C0195,East,In-store,Headphones,Electronics,4,134.26,0.05,510.19,339.58
+ORD00652,2025-02-05,C0212,North,Online,Coffee Maker,Home,3,101.11,0.15,257.83,204.26
+ORD00653,2025-10-24,C0093,West,In-store,Coffee Maker,Home,2,81.47,0.0,162.94,110.08
+ORD00654,2025-05-22,C0104,South,In-store,Pen Set,Stationery,4,5.61,0.15,19.07,14.0
+ORD00655,2025-01-24,C0135,North,In-store,Headphones,Electronics,2,108.18,0.15,183.91,121.52
+ORD00656,2025-08-27,C0141,North,Online,Notebook Pack,Stationery,4,11.14,0.0,44.56,29.82
+ORD00657,2025-06-13,C0156,West,Online,Office Chair,Furniture,2,219.4,0.0,438.8,237.79
+ORD00658,2025-10-27,C0146,East,Online,Headphones,Electronics,2,52.56,0.15,89.35,61.28
+ORD00659,2025-11-13,C0071,West,In-store,Storage Box,Home,5,23.74,0.2,94.96,95.35
+ORD00660,2025-02-10,C0143,North,Online,Laptop,Electronics,1,1193.99,0.15,1014.89,658.84
+ORD00661,2025-05-04,C0032,South,Online,Office Chair,Furniture,3,270.65,0.0,811.95,506.22
+ORD00662,2025-06-04,C0038,East,Online,Desk,Furniture,4,272.84,0.0,1091.36,879.81
+ORD00663,2025-12-28,C0048,East,Online,Notebook Pack,Stationery,4,5.07,0.0,20.28,10.88
+ORD00664,2025-09-08,C0157,North,Online,Desk,Furniture,5,134.94,0.05,640.97,468.49
+ORD00665,2025-01-04,C0018,South,In-store,Office Chair,Furniture,2,147.23,0.05,279.74,240.61
+ORD00666,2025-11-18,C0102,North,Online,Storage Box,Home,3,10.99,0.0,32.97,19.5
+ORD00667,2025-09-02,C0109,South,Online,Laptop,Electronics,5,836.81,0.0,4184.05,3074.57
+ORD00668,2025-12-11,C0058,West,Online,Coffee Maker,Home,3,99.99,0.0,299.97,200.56
+ORD00669,2025-05-30,C0147,East,Online,Headphones,Electronics,2,65.89,0.0,131.78,105.28
+ORD00670,2025-06-05,C0132,South,In-store,Notebook Pack,Stationery,2,7.51,0.05,14.27,8.21
+ORD00671,2025-11-23,C0047,South,In-store,Headphones,Electronics,5,73.81,0.15,313.69,280.09
+ORD00672,2025-06-08,C0160,North,Online,Pen Set,Stationery,4,8.76,0.15,29.78,23.59
+ORD00673,2025-10-09,C0132,West,In-store,Pen Set,Stationery,2,4.49,0.05,8.53,5.51
+ORD00674,2025-07-14,C0198,East,In-store,Desk,Furniture,1,276.96,0.1,249.26,155.26
+ORD00675,2025-10-02,C0063,North,In-store,Desk,Furniture,3,196.6,0.0,589.8,371.58
+ORD00676,2025-06-10,C0161,South,In-store,Storage Box,Home,1,28.25,0.05,26.84,21.71
+ORD00677,2025-03-09,C0229,East,In-store,Office Chair,Furniture,2,192.73,0.15,327.64,312.24
+ORD00678,2025-10-02,C0141,East,In-store,Headphones,Electronics,3,43.41,0.1,117.21,78.71
+ORD00679,2025-10-26,C0044,West,Online,Storage Box,Home,5,22.54,0.1,101.43,72.79
+ORD00680,2025-02-05,C0098,West,Online,Laptop,Electronics,5,1007.06,0.1,4531.77,2854.37
+ORD00681,2025-03-03,C0066,West,In-store,Office Chair,Furniture,2,279.61,0.0,559.22,381.41
+ORD00682,2025-04-19,C0149,East,In-store,Notebook Pack,Stationery,1,5.03,0.0,5.03,2.77
+ORD00683,2025-07-29,C0045,North,In-store,Coffee Maker,Home,3,58.51,0.0,175.53,122.4
+ORD00684,2025-05-02,C0218,South,Online,Pen Set,Stationery,3,6.54,0.1,17.66,13.5
+ORD00685,2025-04-25,C0023,South,In-store,Storage Box,Home,4,34.34,0.1,123.62,109.15
+ORD00686,2025-04-25,C0199,South,Online,Office Chair,Furniture,4,290.41,0.05,1103.56,871.64
+ORD00687,2025-11-13,C0208,East,In-store,Notebook Pack,Stationery,2,8.45,0.05,16.05,13.61
+ORD00688,2025-08-06,C0093,West,Online,Storage Box,Home,3,44.87,0.0,134.61,90.95
+ORD00689,2025-07-24,C0219,North,In-store,Coffee Maker,Home,3,125.05,0.1,337.63,243.18
+ORD00690,2025-02-22,C0005,North,In-store,Notebook Pack,Stationery,2,11.04,0.15,18.77,16.18
+ORD00691,2025-08-20,C0127,South,Online,Desk,Furniture,1,113.39,0.05,107.72,75.1
+ORD00692,2025-01-22,C0166,South,In-store,Laptop,Electronics,1,889.3,0.05,844.83,529.13
+ORD00693,2025-05-01,C0114,North,Online,Desk,Furniture,3,332.35,0.0,997.05,789.97
+ORD00694,2025-09-05,C0050,South,Online,Desk,Furniture,2,309.51,0.0,619.02,481.6
+ORD00695,2025-03-01,C0060,East,Online,Pen Set,Stationery,1,3.23,0.05,3.07,2.2
+ORD00696,2025-11-19,C0170,North,In-store,Storage Box,Home,2,44.84,0.0,89.68,67.86
+ORD00697,2025-05-07,C0237,West,Online,Notebook Pack,Stationery,3,13.16,0.15,33.56,29.13
+ORD00698,2025-11-18,C0117,West,Online,Pen Set,Stationery,2,14.03,0.15,23.85,15.47
+ORD00699,2025-03-02,C0119,East,In-store,Laptop,Electronics,5,694.42,0.1,3124.89,2380.85
+ORD00700,2025-11-26,C0125,West,Online,Office Chair,Furniture,5,120.54,0.15,512.3,345.05
+ORD00701,2025-09-07,C0194,West,In-store,Headphones,Electronics,1,41.4,0.1,37.26,30.8
+ORD00702,2025-03-26,C0015,North,Online,Headphones,Electronics,4,94.56,0.0,378.24,276.03
+ORD00703,2025-01-25,C0028,South,Online,Desk,Furniture,2,327.02,0.0,654.04,473.33
+ORD00704,2025-03-11,C0165,South,Online,Storage Box,Home,2,14.72,0.0,29.44,18.26
+ORD00705,2025-10-28,C0210,South,Online,Headphones,Electronics,3,118.5,0.0,355.5,244.23
+ORD00706,2025-09-29,C0008,East,Online,Storage Box,Home,4,35.1,0.1,126.36,75.84
+ORD00707,2025-06-27,C0209,West,In-store,Desk,Furniture,5,314.8,0.1,1416.6,1188.22
+ORD00708,2025-02-19,C0123,South,Online,Desk,Furniture,3,387.2,0.0,1161.6,901.8
+ORD00709,2025-12-23,C0193,South,In-store,Headphones,Electronics,4,77.74,0.0,310.96,179.12
+ORD00710,2025-01-06,C0017,West,Online,Coffee Maker,Home,4,33.96,0.05,129.05,109.6
+ORD00711,2025-07-31,C0214,East,In-store,Storage Box,Home,4,18.48,0.15,62.83,53.65
+ORD00712,2025-04-27,C0196,South,Online,Desk,Furniture,3,417.23,0.1,1126.52,1025.73
+ORD00713,2025-02-16,C0207,West,In-store,Coffee Maker,Home,4,57.51,0.0,230.04,147.55
+ORD00714,2025-11-24,C0169,West,Online,Office Chair,Furniture,3,91.91,0.05,261.94,194.29
+ORD00715,2025-01-15,C0038,West,In-store,Storage Box,Home,5,41.66,0.0,208.3,170.45
+ORD00716,2025-03-13,C0016,South,Online,Laptop,Electronics,2,691.21,0.1,1244.18,1054.61
+ORD00717,2025-03-17,C0142,South,In-store,Desk,Furniture,1,313.22,0.1,281.9,207.21
+ORD00718,2025-03-10,C0085,North,Online,Storage Box,Home,2,8.45,0.0,16.9,11.59
+ORD00719,2025-10-09,C0151,West,In-store,Storage Box,Home,1,27.25,0.1,24.53,16.28
+ORD00720,2025-04-13,C0149,West,Online,Laptop,Electronics,3,1164.12,0.1,3143.12,2710.39
+ORD00721,2025-08-04,C0133,West,In-store,Coffee Maker,Home,5,110.41,0.0,552.05,320.45
+ORD00722,2025-04-28,C0178,East,In-store,Laptop,Electronics,1,1112.03,0.15,945.23,612.21
+ORD00723,2025-04-28,C0114,West,Online,Laptop,Electronics,5,1112.14,0.0,5560.7,2921.98
+ORD00724,2025-10-18,C0195,North,Online,Notebook Pack,Stationery,3,5.78,0.0,17.34,11.97
+ORD00725,2025-07-16,C0228,South,In-store,Pen Set,Stationery,2,12.19,0.15,20.72,16.48
+ORD00726,2025-07-23,C0017,North,In-store,Headphones,Electronics,5,126.67,0.0,633.35,498.92
+ORD00727,2025-11-10,C0076,West,In-store,Storage Box,Home,3,25.99,0.1,70.17,46.22
+ORD00728,2025-12-06,C0235,West,In-store,Pen Set,Stationery,5,11.94,0.0,59.7,39.56
+ORD00729,2025-06-10,C0104,North,Online,Headphones,Electronics,4,69.02,0.0,276.08,185.97
+ORD00730,2025-12-10,C0041,North,Online,Notebook Pack,Stationery,2,14.13,0.0,28.26,22.29
+ORD00731,2025-12-16,C0077,East,In-store,Notebook Pack,Stationery,4,7.15,0.05,27.17,22.1
+ORD00732,2025-07-03,C0038,North,In-store,Office Chair,Furniture,3,277.24,0.1,748.55,482.65
+ORD00733,2025-04-07,C0157,South,In-store,Notebook Pack,Stationery,2,9.03,0.05,17.16,10.37
+ORD00734,2025-05-02,C0187,East,Online,Headphones,Electronics,5,148.69,0.1,669.11,390.93
+ORD00735,2025-10-10,C0143,West,Online,Desk,Furniture,5,467.69,0.05,2221.53,1829.85
+ORD00736,2025-06-29,C0013,West,In-store,Office Chair,Furniture,4,283.05,0.0,1132.2,676.04
+ORD00737,2025-12-15,C0004,East,Online,Notebook Pack,Stationery,5,4.03,0.05,19.14,12.32
+ORD00738,2025-07-07,C0055,East,Online,Notebook Pack,Stationery,2,12.29,0.05,23.35,14.16
+ORD00739,2025-02-22,C0008,North,Online,Headphones,Electronics,2,72.76,0.15,123.69,111.96
+ORD00740,2025-09-30,C0137,South,Online,Notebook Pack,Stationery,1,15.6,0.0,15.6,9.5
+ORD00741,2025-06-16,C0076,West,Online,Laptop,Electronics,2,1132.85,0.15,1925.84,1252.68
+ORD00742,2025-09-07,C0118,East,In-store,Desk,Furniture,3,321.89,0.0,965.67,746.15
+ORD00743,2025-08-09,C0159,East,In-store,Pen Set,Stationery,5,9.34,0.0,46.7,26.37
+ORD00744,2025-04-23,C0198,North,In-store,Laptop,Electronics,4,881.5,0.05,3349.7,2179.6
+ORD00745,2025-09-01,C0037,West,Online,Headphones,Electronics,5,50.66,0.1,227.97,207.09
+ORD00746,2025-02-04,C0067,North,In-store,Storage Box,Home,5,31.97,0.0,159.85,106.89
+ORD00747,2025-05-15,C0058,West,In-store,Notebook Pack,Stationery,5,15.6,0.2,62.4,51.31
+ORD00748,2025-11-14,C0058,North,Online,Coffee Maker,Home,4,142.38,0.0,569.52,428.71
+ORD00749,2025-10-07,C0129,East,Online,Office Chair,Furniture,4,226.48,0.15,770.03,741.8
+ORD00750,2025-01-03,C0086,North,In-store,Office Chair,Furniture,1,214.52,0.05,203.79,166.65
+ORD00751,2025-06-12,C0110,South,Online,Laptop,Electronics,4,989.94,0.05,3761.77,2214.27
+ORD00752,2025-10-17,C0046,West,In-store,Desk,Furniture,5,402.52,0.0,2012.6,1402.17
+ORD00753,2025-11-10,C0030,West,Online,Storage Box,Home,5,12.23,0.0,61.15,39.71
+ORD00754,2025-08-14,C0059,West,In-store,Coffee Maker,Home,5,41.02,0.05,194.84,154.24
+ORD00755,2025-05-30,C0134,West,In-store,Pen Set,Stationery,1,11.69,0.1,10.52,6.9
+ORD00756,2025-09-04,C0077,North,Online,Coffee Maker,Home,4,115.02,0.05,437.08,308.69
+ORD00757,2025-01-08,C0208,North,Online,Pen Set,Stationery,3,4.7,0.05,13.4,7.54
+ORD00758,2025-05-31,C0119,North,Online,Storage Box,Home,4,21.15,0.0,84.6,68.86
+ORD00759,2025-02-16,C0069,South,In-store,Pen Set,Stationery,3,3.85,0.1,10.4,6.01
+ORD00760,2025-05-06,C0180,South,In-store,Office Chair,Furniture,1,290.14,0.1,261.13,153.0
+ORD00761,2025-08-25,C0059,East,In-store,Storage Box,Home,5,18.15,0.15,77.14,51.56
+ORD00762,2025-12-25,C0009,North,In-store,Coffee Maker,Home,2,101.99,0.1,183.58,124.64
+ORD00763,2025-10-29,C0088,West,Online,Headphones,Electronics,4,156.54,0.0,626.16,479.9
+ORD00764,2025-11-01,C0019,East,In-store,Desk,Furniture,3,371.16,0.1,1002.13,862.9
+ORD00765,2025-09-04,C0185,North,In-store,Pen Set,Stationery,3,9.07,0.15,23.13,19.4
+ORD00766,2025-11-07,C0120,North,In-store,Headphones,Electronics,5,138.12,0.0,690.6,402.9
+ORD00767,2025-11-14,C0044,South,In-store,Desk,Furniture,2,232.59,0.05,441.92,328.85
+ORD00768,2025-08-23,C0157,West,Online,Storage Box,Home,2,33.9,0.0,67.8,52.69
+ORD00769,2025-09-20,C0234,East,Online,Laptop,Electronics,1,1125.28,0.0,1125.28,813.07
+ORD00770,2025-10-23,C0069,East,In-store,Office Chair,Furniture,3,125.37,0.05,357.3,245.97
+ORD00771,2025-04-14,C0226,East,In-store,Headphones,Electronics,4,123.98,0.15,421.53,274.14
+ORD00772,2025-04-12,C0080,North,Online,Coffee Maker,Home,5,55.37,0.0,276.85,166.63
+ORD00773,2025-08-16,C0066,North,In-store,Office Chair,Furniture,3,258.61,0.0,775.83,482.65
+ORD00774,2025-03-04,C0054,South,Online,Headphones,Electronics,5,56.1,0.0,280.5,185.73
+ORD00775,2025-05-08,C0239,West,Online,Office Chair,Furniture,3,328.78,0.0,986.34,604.63
+ORD00776,2025-03-15,C0193,West,In-store,Coffee Maker,Home,3,46.41,0.0,139.23,89.81
+ORD00777,2025-05-29,C0026,West,In-store,Storage Box,Home,1,29.25,0.0,29.25,21.23
+ORD00778,2025-05-29,C0020,West,Online,Desk,Furniture,1,331.7,0.05,315.11,253.18
+ORD00779,2025-05-23,C0066,West,Online,Coffee Maker,Home,4,50.48,0.0,201.92,107.11
+ORD00780,2025-01-14,C0035,West,In-store,Pen Set,Stationery,4,4.34,0.0,17.36,9.43
+ORD00781,2025-09-19,C0012,South,Online,Storage Box,Home,5,36.12,0.1,162.54,147.92
+ORD00782,2025-01-09,C0109,East,Online,Office Chair,Furniture,2,312.71,0.1,562.88,413.71
+ORD00783,2025-06-05,C0206,North,Online,Pen Set,Stationery,4,7.8,0.1,28.08,19.97
+ORD00784,2025-03-28,C0187,West,Online,Notebook Pack,Stationery,5,17.69,0.05,84.03,55.08
+ORD00785,2025-04-05,C0072,North,Online,Headphones,Electronics,5,38.4,0.05,182.4,109.48
+ORD00786,2025-06-21,C0060,North,Online,Coffee Maker,Home,3,109.55,0.15,279.35,226.79
+ORD00787,2025-11-07,C0142,North,In-store,Office Chair,Furniture,3,221.72,0.0,665.16,435.04
+ORD00788,2025-09-30,C0147,South,Online,Office Chair,Furniture,5,108.24,0.0,541.2,412.01
+ORD00789,2025-01-22,C0099,East,Online,Notebook Pack,Stationery,4,8.43,0.15,28.66,21.01
+ORD00790,2025-11-19,C0180,South,In-store,Storage Box,Home,2,33.23,0.0,66.46,37.18
+ORD00791,2025-08-03,C0055,North,Online,Headphones,Electronics,1,145.77,0.0,145.77,78.93
+ORD00792,2025-07-11,C0149,North,In-store,Desk,Furniture,3,447.55,0.0,1342.65,777.4
+ORD00793,2025-01-11,C0116,East,In-store,Office Chair,Furniture,1,330.27,0.05,313.76,212.87
+ORD00794,2025-05-28,C0224,West,In-store,Laptop,Electronics,5,925.91,0.05,4398.07,3687.85
+ORD00795,2025-02-28,C0066,East,In-store,Desk,Furniture,4,363.53,0.1,1308.71,849.65
+ORD00796,2025-01-17,C0096,West,Online,Pen Set,Stationery,2,3.05,0.05,5.79,3.18
+ORD00797,2025-06-28,C0020,East,In-store,Desk,Furniture,3,210.27,0.1,567.73,386.42
+ORD00798,2025-12-03,C0141,East,In-store,Storage Box,Home,2,43.78,0.15,74.43,53.91
+ORD00799,2025-05-08,C0165,West,In-store,Headphones,Electronics,1,101.12,0.0,101.12,60.9
+ORD00800,2025-07-03,C0044,East,In-store,Office Chair,Furniture,2,138.76,0.05,263.64,214.47
+ORD00801,2025-07-26,C0051,West,In-store,Desk,Furniture,1,118.43,0.05,112.51,90.53
+ORD00802,2025-01-30,C0143,North,In-store,Desk,Furniture,4,274.5,0.1,988.2,741.43
+ORD00803,2025-11-12,C0226,East,In-store,Notebook Pack,Stationery,2,9.99,0.0,19.98,11.81
+ORD00804,2025-12-31,C0133,South,In-store,Notebook Pack,Stationery,5,14.0,0.0,70.0,50.36
+ORD00805,2025-12-24,C0097,West,In-store,Desk,Furniture,2,171.57,0.05,325.98,259.43
+ORD00806,2025-03-09,C0072,East,In-store,Notebook Pack,Stationery,1,13.55,0.1,12.2,8.4
+ORD00807,2025-11-20,C0003,South,Online,Laptop,Electronics,3,717.63,0.0,2152.89,1687.17
+ORD00808,2025-08-25,C0103,North,In-store,Office Chair,Furniture,4,192.66,0.0,770.64,432.61
+ORD00809,2025-06-06,C0187,South,Online,Headphones,Electronics,4,56.26,0.1,202.54,171.41
+ORD00810,2025-11-12,C0228,East,Online,Laptop,Electronics,1,904.68,0.1,814.21,476.75
+ORD00811,2025-10-22,C0213,West,Online,Notebook Pack,Stationery,1,7.8,0.1,7.02,5.61
+ORD00812,2025-08-07,C0058,East,Online,Office Chair,Furniture,2,205.06,0.1,369.11,266.59
+ORD00813,2025-07-10,C0141,East,In-store,Pen Set,Stationery,2,9.23,0.1,16.61,10.83
+ORD00814,2025-04-28,C0088,South,Online,Desk,Furniture,5,159.89,0.1,719.5,560.25
+ORD00815,2025-09-13,C0203,East,In-store,Coffee Maker,Home,1,44.18,0.1,39.76,28.19
+ORD00816,2025-04-28,C0068,North,Online,Headphones,Electronics,5,93.53,0.0,467.65,340.26
+ORD00817,2025-01-21,C0122,East,Online,Headphones,Electronics,5,162.76,0.1,732.42,544.96
+ORD00818,2025-11-22,C0211,East,Online,Headphones,Electronics,5,135.08,0.1,607.86,529.4
+ORD00819,2025-04-01,C0053,West,In-store,Pen Set,Stationery,3,4.45,0.05,12.68,8.49
+ORD00820,2025-11-15,C0196,North,Online,Office Chair,Furniture,1,284.7,0.1,256.23,226.66
+ORD00821,2025-12-28,C0039,North,Online,Desk,Furniture,4,210.3,0.15,715.02,557.14
+ORD00822,2025-11-06,C0117,West,In-store,Headphones,Electronics,4,136.08,0.0,544.32,406.78
+ORD00823,2025-08-30,C0061,West,In-store,Coffee Maker,Home,2,112.03,0.0,224.06,140.96
+ORD00824,2025-12-25,C0046,East,In-store,Pen Set,Stationery,3,13.3,0.0,39.9,27.87
+ORD00825,2025-12-07,C0193,East,In-store,Notebook Pack,Stationery,3,12.33,0.1,33.29,26.51
+ORD00826,2025-07-31,C0179,West,Online,Headphones,Electronics,2,61.88,0.2,99.01,72.81
+ORD00827,2025-06-07,C0059,East,Online,Coffee Maker,Home,3,76.92,0.1,207.68,130.99
+ORD00828,2025-01-24,C0059,North,Online,Desk,Furniture,3,194.26,0.0,582.78,367.81
+ORD00829,2025-08-01,C0150,East,In-store,Laptop,Electronics,4,994.66,0.0,3978.64,2447.31
+ORD00830,2025-12-02,C0099,South,In-store,Notebook Pack,Stationery,3,10.51,0.0,31.53,24.08
+ORD00831,2025-02-09,C0054,North,Online,Storage Box,Home,4,19.5,0.0,78.0,47.75
+ORD00832,2025-08-08,C0046,South,In-store,Pen Set,Stationery,3,14.03,0.0,42.09,21.97
+ORD00833,2025-04-08,C0086,West,Online,Pen Set,Stationery,3,10.15,0.0,30.45,17.37
+ORD00834,2025-12-30,C0148,East,Online,Office Chair,Furniture,3,146.72,0.1,396.14,330.15
+ORD00835,2025-12-09,C0106,West,Online,Laptop,Electronics,4,1075.71,0.1,3872.56,3143.5
+ORD00836,2025-03-16,C0128,North,Online,Headphones,Electronics,4,56.68,0.1,204.05,131.29
+ORD00837,2025-11-09,C0117,South,In-store,Notebook Pack,Stationery,4,12.41,0.05,47.16,39.51
+ORD00838,2025-07-15,C0152,South,Online,Storage Box,Home,3,31.5,0.1,85.05,61.47
+ORD00839,2025-09-24,C0007,West,In-store,Notebook Pack,Stationery,3,4.1,0.15,10.45,6.57
+ORD00840,2025-04-23,C0048,West,In-store,Notebook Pack,Stationery,2,16.54,0.0,33.08,25.98
+ORD00841,2025-02-17,C0037,North,In-store,Headphones,Electronics,2,74.02,0.05,140.64,87.9
+ORD00842,2025-08-07,C0200,West,Online,Headphones,Electronics,5,49.66,0.2,198.64,145.92
+ORD00843,2025-06-28,C0029,East,In-store,Notebook Pack,Stationery,4,15.44,0.0,61.76,42.29
+ORD00844,2025-12-24,C0014,South,Online,Notebook Pack,Stationery,3,6.36,0.0,19.08,11.65
+ORD00845,2025-03-18,C0124,North,In-store,Storage Box,Home,2,31.07,0.05,59.03,37.46
+ORD00846,2025-05-18,C0083,East,Online,Office Chair,Furniture,3,207.72,0.05,592.0,508.06
+ORD00847,2025-05-26,C0036,South,In-store,Desk,Furniture,3,240.0,0.1,648.0,412.08
+ORD00848,2025-06-08,C0013,West,Online,Desk,Furniture,2,473.23,0.05,899.14,714.75
+ORD00849,2025-10-01,C0070,South,Online,Storage Box,Home,5,23.25,0.1,104.62,72.44
+ORD00850,2025-02-12,C0134,West,In-store,Storage Box,Home,1,33.51,0.1,30.16,25.75
+ORD00851,2025-03-26,C0071,North,Online,Notebook Pack,Stationery,5,4.32,0.1,19.44,16.58
+ORD00852,2025-11-10,C0070,South,In-store,Headphones,Electronics,5,104.05,0.15,442.21,297.34
+ORD00853,2025-10-01,C0225,West,In-store,Coffee Maker,Home,2,45.17,0.15,76.79,63.28
+ORD00854,2025-12-13,C0122,South,In-store,Laptop,Electronics,3,992.45,0.0,2977.35,1933.77
+ORD00855,2025-10-18,C0011,East,In-store,Notebook Pack,Stationery,3,10.15,0.0,30.45,24.21
+ORD00856,2025-03-07,C0043,West,In-store,Office Chair,Furniture,5,147.07,0.05,698.58,575.3
+ORD00857,2025-07-11,C0010,North,In-store,Laptop,Electronics,2,775.07,0.15,1317.62,1095.09
+ORD00858,2025-07-24,C0224,West,Online,Office Chair,Furniture,4,176.11,0.15,598.77,555.64
+ORD00859,2025-08-01,C0067,East,Online,Storage Box,Home,4,32.36,0.0,129.44,85.71
+ORD00860,2025-02-07,C0001,North,Online,Laptop,Electronics,2,828.61,0.1,1491.5,1088.08
+ORD00861,2025-12-24,C0226,South,In-store,Storage Box,Home,3,12.65,0.05,36.05,27.12
+ORD00862,2025-07-02,C0180,West,In-store,Office Chair,Furniture,2,122.28,0.0,244.56,179.73
+ORD00863,2025-09-16,C0012,East,Online,Coffee Maker,Home,5,52.67,0.0,263.35,152.12
+ORD00864,2025-01-07,C0127,North,In-store,Notebook Pack,Stationery,5,13.21,0.05,62.75,34.41
+ORD00865,2025-05-05,C0208,South,In-store,Laptop,Electronics,1,662.46,0.05,629.34,522.33
+ORD00866,2025-09-29,C0164,North,In-store,Notebook Pack,Stationery,2,5.71,0.1,10.28,8.95
+ORD00867,2025-09-03,C0083,East,Online,Desk,Furniture,2,401.32,0.05,762.51,479.33
+ORD00868,2025-11-01,C0111,South,In-store,Headphones,Electronics,2,51.37,0.0,102.74,55.03
+ORD00869,2025-02-26,C0018,West,In-store,Laptop,Electronics,4,898.15,0.0,3592.6,2905.72
+ORD00870,2025-04-27,C0108,North,Online,Desk,Furniture,3,250.05,0.0,750.15,455.98
+ORD00871,2025-06-30,C0135,West,Online,Laptop,Electronics,2,704.32,0.0,1408.64,935.55
+ORD00872,2025-12-08,C0002,North,In-store,Headphones,Electronics,1,54.91,0.0,54.91,41.74
+ORD00873,2025-03-16,C0098,South,Online,Desk,Furniture,2,384.99,0.1,692.98,442.92
+ORD00874,2025-09-15,C0136,West,Online,Desk,Furniture,4,155.48,0.0,621.92,380.48
+ORD00875,2025-12-27,C0157,East,In-store,Desk,Furniture,5,303.76,0.0,1518.8,836.68
+ORD00876,2025-02-03,C0015,East,In-store,Desk,Furniture,4,203.25,0.15,691.05,606.11
+ORD00877,2025-12-30,C0102,South,In-store,Notebook Pack,Stationery,2,9.97,0.0,19.94,14.26
+ORD00878,2025-05-27,C0213,West,In-store,Headphones,Electronics,5,82.11,0.0,410.55,253.87
+ORD00879,2025-02-16,C0118,West,In-store,Storage Box,Home,1,43.38,0.15,36.87,33.3
+ORD00880,2025-05-31,C0182,East,In-store,Desk,Furniture,5,330.94,0.1,1489.23,948.7
+ORD00881,2025-10-05,C0073,West,Online,Storage Box,Home,2,44.49,0.05,84.53,51.6
+ORD00882,2025-03-07,C0134,East,Online,Coffee Maker,Home,4,69.93,0.1,251.75,173.32
+ORD00883,2025-07-17,C0161,East,Online,Coffee Maker,Home,2,129.11,0.1,232.4,211.07
+ORD00884,2025-04-26,C0023,East,Online,Office Chair,Furniture,5,234.05,0.1,1053.23,863.4
+ORD00885,2025-03-01,C0152,West,Online,Laptop,Electronics,2,1199.28,0.0,2398.56,1379.6
+ORD00886,2025-05-19,C0061,North,Online,Desk,Furniture,5,238.78,0.1,1074.51,744.41
+ORD00887,2025-07-17,C0221,West,In-store,Laptop,Electronics,1,873.79,0.0,873.79,477.04
+ORD00888,2025-11-07,C0010,South,In-store,Coffee Maker,Home,2,48.89,0.0,97.78,68.51
+ORD00889,2025-10-08,C0083,South,Online,Desk,Furniture,1,406.34,0.1,365.71,241.38
+ORD00890,2025-05-28,C0187,North,Online,Office Chair,Furniture,2,270.72,0.1,487.3,416.27
+ORD00891,2025-11-16,C0011,South,Online,Office Chair,Furniture,4,315.87,0.1,1137.13,770.01
+ORD00892,2025-09-12,C0180,South,In-store,Pen Set,Stationery,4,10.99,0.0,43.96,34.9
+ORD00893,2025-07-13,C0157,South,Online,Pen Set,Stationery,4,13.85,0.15,47.09,38.71
+ORD00894,2025-08-26,C0197,West,In-store,Office Chair,Furniture,2,257.6,0.0,515.2,289.88
+ORD00895,2025-06-25,C0229,North,Online,Storage Box,Home,3,23.83,0.1,64.34,54.94
+ORD00896,2025-08-06,C0240,East,In-store,Headphones,Electronics,3,29.68,0.1,80.14,63.67
+ORD00897,2025-04-19,C0174,West,In-store,Office Chair,Furniture,4,146.26,0.15,497.28,342.68
+ORD00898,2025-11-26,C0046,North,Online,Coffee Maker,Home,5,60.94,0.1,274.23,166.31
+ORD00899,2025-05-28,C0224,North,Online,Desk,Furniture,2,324.75,0.05,617.02,528.38
+ORD00900,2025-02-13,C0099,North,Online,Desk,Furniture,4,224.87,0.0,899.48,653.34
+ORD00901,2025-07-08,C0049,South,In-store,Pen Set,Stationery,2,7.61,0.0,15.22,10.44
+ORD00902,2025-07-04,C0040,North,In-store,Office Chair,Furniture,1,148.89,0.15,126.56,89.38
+ORD00903,2025-09-08,C0046,North,In-store,Office Chair,Furniture,3,279.1,0.05,795.44,443.25
+ORD00904,2025-06-16,C0085,North,Online,Headphones,Electronics,1,84.64,0.05,80.41,63.96
+ORD00905,2025-12-03,C0156,North,In-store,Storage Box,Home,1,43.17,0.15,36.69,34.46
+ORD00906,2025-01-09,C0107,South,Online,Office Chair,Furniture,1,261.09,0.05,248.04,193.08
+ORD00907,2025-07-04,C0050,South,In-store,Coffee Maker,Home,3,152.71,0.0,458.13,255.98
+ORD00908,2025-02-28,C0178,South,Online,Coffee Maker,Home,1,154.87,0.0,154.87,118.94
+ORD00909,2025-09-26,C0107,West,Online,Notebook Pack,Stationery,4,4.08,0.1,14.69,12.15
+ORD00910,2025-12-16,C0128,North,Online,Storage Box,Home,4,14.6,0.1,52.56,33.73
+ORD00911,2025-08-22,C0027,South,In-store,Pen Set,Stationery,4,4.27,0.1,15.37,9.16
+ORD00912,2025-02-22,C0034,East,Online,Coffee Maker,Home,3,97.39,0.0,292.17,207.37
+ORD00913,2025-08-09,C0050,North,Online,Storage Box,Home,4,33.27,0.0,133.08,77.57
+ORD00914,2025-07-11,C0240,West,Online,Notebook Pack,Stationery,4,4.36,0.0,17.44,10.9
+ORD00915,2025-01-12,C0220,East,In-store,Storage Box,Home,2,40.58,0.0,81.16,52.24
+ORD00916,2025-07-02,C0160,South,Online,Office Chair,Furniture,5,151.66,0.0,758.3,590.06
+ORD00917,2025-12-01,C0074,East,In-store,Storage Box,Home,2,8.87,0.0,17.74,10.14
+ORD00918,2025-08-12,C0151,South,Online,Laptop,Electronics,3,1131.19,0.05,3223.89,1936.19
+ORD00919,2025-11-15,C0142,East,Online,Coffee Maker,Home,1,43.15,0.05,40.99,28.5
+ORD00920,2025-05-11,C0236,East,In-store,Laptop,Electronics,2,746.82,0.0,1493.64,841.93
+ORD00921,2025-08-20,C0060,West,In-store,Desk,Furniture,2,271.77,0.1,489.19,328.58
+ORD00922,2025-12-06,C0048,South,In-store,Office Chair,Furniture,1,338.19,0.15,287.46,210.67
+ORD00923,2025-10-25,C0084,North,In-store,Notebook Pack,Stationery,5,15.75,0.1,70.88,47.99
+ORD00924,2025-06-25,C0001,South,In-store,Office Chair,Furniture,4,340.07,0.05,1292.27,951.56
+ORD00925,2025-01-15,C0070,North,Online,Notebook Pack,Stationery,3,17.6,0.1,47.52,38.08
+ORD00926,2025-11-21,C0016,South,In-store,Office Chair,Furniture,5,181.06,0.0,905.3,650.57
+ORD00927,2025-11-14,C0080,South,Online,Office Chair,Furniture,3,264.29,0.0,792.87,633.37
+ORD00928,2025-08-18,C0042,West,Online,Laptop,Electronics,2,1163.01,0.0,2326.02,1671.67
+ORD00929,2025-09-26,C0212,South,In-store,Headphones,Electronics,3,47.95,0.0,143.85,96.43
+ORD00930,2025-11-06,C0031,East,In-store,Office Chair,Furniture,1,345.38,0.1,310.84,267.74
+ORD00931,2025-06-20,C0093,South,In-store,Pen Set,Stationery,3,6.89,0.1,18.6,15.19
+ORD00932,2025-03-17,C0071,East,In-store,Notebook Pack,Stationery,1,10.85,0.1,9.77,7.03
+ORD00933,2025-04-11,C0003,North,Online,Notebook Pack,Stationery,3,11.98,0.1,32.35,28.56
+ORD00934,2025-03-07,C0114,South,In-store,Notebook Pack,Stationery,3,11.44,0.0,34.32,27.08
+ORD00935,2025-07-14,C0134,South,In-store,Notebook Pack,Stationery,3,4.81,0.1,12.99,9.36
+ORD00936,2025-08-09,C0171,West,Online,Laptop,Electronics,3,807.79,0.1,2181.03,1716.08
+ORD00937,2025-02-24,C0201,South,Online,Desk,Furniture,1,342.24,0.0,342.24,223.44
+ORD00938,2025-07-18,C0148,East,In-store,Pen Set,Stationery,1,3.12,0.1,2.81,2.31
+ORD00939,2025-01-30,C0073,North,Online,Laptop,Electronics,4,881.7,0.0,3526.8,2279.09
+ORD00940,2025-11-09,C0161,North,In-store,Laptop,Electronics,3,794.41,0.1,2144.91,1273.68
+ORD00941,2025-03-03,C0192,West,Online,Desk,Furniture,1,413.58,0.05,392.9,292.32
+ORD00942,2025-10-08,C0020,North,Online,Notebook Pack,Stationery,5,10.08,0.0,50.4,39.56
+ORD00943,2025-09-25,C0087,West,In-store,Notebook Pack,Stationery,1,8.04,0.0,8.04,6.38
+ORD00944,2025-02-27,C0180,North,Online,Headphones,Electronics,4,89.87,0.0,359.48,243.91
+ORD00945,2025-01-17,C0168,East,In-store,Headphones,Electronics,5,64.86,0.15,275.66,232.57
+ORD00946,2025-12-20,C0209,East,In-store,Notebook Pack,Stationery,3,9.06,0.05,25.82,18.34
+ORD00947,2025-07-31,C0139,East,Online,Headphones,Electronics,5,141.94,0.05,674.22,553.76
+ORD00948,2025-11-12,C0141,East,Online,Headphones,Electronics,4,90.19,0.0,360.76,195.15
+ORD00949,2025-12-18,C0215,East,In-store,Coffee Maker,Home,1,100.93,0.0,100.93,68.67
+ORD00950,2025-03-02,C0070,East,Online,Pen Set,Stationery,1,4.49,0.15,3.82,3.49
+ORD00951,2025-05-07,C0024,North,Online,Coffee Maker,Home,1,38.23,0.1,34.41,26.03
+ORD00952,2025-10-22,C0202,West,In-store,Storage Box,Home,3,10.13,0.1,27.35,22.84
+ORD00953,2025-04-27,C0165,North,In-store,Storage Box,Home,5,11.85,0.0,59.25,45.5
+ORD00954,2025-02-17,C0025,East,In-store,Laptop,Electronics,5,1069.86,0.0,5349.3,2891.66
+ORD00955,2025-12-30,C0212,South,Online,Coffee Maker,Home,4,114.57,0.0,458.28,362.91
+ORD00956,2025-02-25,C0213,South,In-store,Office Chair,Furniture,3,267.01,0.15,680.88,454.0
+ORD00957,2025-11-28,C0161,North,In-store,Notebook Pack,Stationery,5,16.8,0.05,79.8,61.81
+ORD00958,2025-11-12,C0216,West,In-store,Coffee Maker,Home,2,118.41,0.0,236.82,136.16
+ORD00959,2025-05-30,C0233,South,In-store,Storage Box,Home,1,9.36,0.05,8.89,7.0
+ORD00960,2025-03-13,C0147,North,Online,Laptop,Electronics,2,728.58,0.05,1384.3,862.5
+ORD00961,2025-09-06,C0219,East,Online,Laptop,Electronics,2,1059.56,0.15,1801.25,1400.73
+ORD00962,2025-12-11,C0148,North,In-store,Office Chair,Furniture,5,181.41,0.1,816.35,689.72
+ORD00963,2025-11-04,C0127,East,In-store,Headphones,Electronics,5,59.63,0.0,298.15,218.35
+ORD00964,2025-05-13,C0022,North,In-store,Pen Set,Stationery,5,14.95,0.2,59.8,49.3
+ORD00965,2025-07-09,C0178,West,Online,Headphones,Electronics,1,161.28,0.15,137.09,123.14
+ORD00966,2025-10-04,C0166,North,In-store,Coffee Maker,Home,1,47.22,0.0,47.22,35.49
+ORD00967,2025-08-30,C0218,West,In-store,Notebook Pack,Stationery,4,13.23,0.05,50.27,34.09
+ORD00968,2025-09-08,C0136,West,In-store,Coffee Maker,Home,4,96.14,0.1,346.1,281.34
+ORD00969,2025-05-15,C0182,East,In-store,Laptop,Electronics,2,932.57,0.0,1865.14,1349.81
+ORD00970,2025-06-29,C0191,South,Online,Notebook Pack,Stationery,4,8.2,0.0,32.8,20.51
+ORD00971,2025-07-04,C0203,South,Online,Pen Set,Stationery,2,11.65,0.0,23.3,14.68
+ORD00972,2025-06-22,C0060,West,Online,Pen Set,Stationery,4,9.3,0.1,33.48,26.83
+ORD00973,2025-10-28,C0157,West,In-store,Office Chair,Furniture,2,232.86,0.0,465.72,364.29
+ORD00974,2025-11-19,C0048,East,In-store,Desk,Furniture,1,250.8,0.0,250.8,150.79
+ORD00975,2025-02-24,C0214,West,In-store,Desk,Furniture,1,476.54,0.0,476.54,262.11
+ORD00976,2025-09-06,C0208,East,In-store,Storage Box,Home,5,8.88,0.0,44.4,23.67
+ORD00977,2025-11-04,C0124,East,Online,Notebook Pack,Stationery,4,11.76,0.0,47.04,32.95
+ORD00978,2025-04-15,C0177,South,In-store,Pen Set,Stationery,4,11.08,0.0,44.32,34.03
+ORD00979,2025-02-15,C0047,South,Online,Headphones,Electronics,2,123.75,0.0,247.5,137.57
+ORD00980,2025-01-29,C0115,West,Online,Headphones,Electronics,1,119.14,0.0,119.14,87.42
+ORD00981,2025-03-16,C0054,South,Online,Office Chair,Furniture,2,294.15,0.2,470.64,392.84
+ORD00982,2025-05-22,C0038,West,In-store,Office Chair,Furniture,3,309.12,0.0,927.36,751.11
+ORD00983,2025-04-28,C0204,North,In-store,Notebook Pack,Stationery,3,4.39,0.1,11.85,7.31
+ORD00984,2025-06-13,C0015,West,In-store,Notebook Pack,Stationery,5,15.67,0.0,78.35,43.99
+ORD00985,2025-10-28,C0212,West,Online,Desk,Furniture,2,354.17,0.1,637.51,430.44
+ORD00986,2025-09-20,C0026,East,In-store,Storage Box,Home,3,27.57,0.0,82.71,49.56
+ORD00987,2025-08-24,C0187,East,Online,Coffee Maker,Home,5,142.94,0.0,714.7,471.51
+ORD00988,2025-02-20,C0073,East,In-store,Pen Set,Stationery,5,9.74,0.0,48.7,37.3
+ORD00989,2025-08-23,C0012,East,Online,Storage Box,Home,2,44.72,0.0,89.44,54.81
+ORD00990,2025-02-04,C0133,West,In-store,Office Chair,Furniture,2,152.35,0.05,289.46,218.37
+ORD00991,2025-03-25,C0143,South,Online,Pen Set,Stationery,4,4.77,0.15,16.22,10.13
+ORD00992,2025-03-03,C0161,North,Online,Laptop,Electronics,3,852.6,0.1,2302.02,1596.35
+ORD00993,2025-07-05,C0011,North,Online,Desk,Furniture,5,272.09,0.1,1224.4,930.3
+ORD00994,2025-06-03,C0075,North,Online,Pen Set,Stationery,2,3.17,0.0,6.34,4.24
+ORD00995,2025-12-20,C0058,East,In-store,Pen Set,Stationery,2,12.27,0.0,24.54,17.33
+ORD00996,2025-04-19,C0012,East,Online,Desk,Furniture,2,314.18,0.2,502.69,509.41
+ORD00997,2025-09-05,C0083,North,In-store,Coffee Maker,Home,2,50.84,0.1,91.51,68.15
+ORD00998,2025-04-02,C0081,South,Online,Coffee Maker,Home,4,116.72,0.05,443.54,248.76
+ORD00999,2025-07-15,C0116,South,In-store,Storage Box,Home,5,12.0,0.1,54.0,48.54
+ORD01000,2025-12-24,C0091,South,In-store,Notebook Pack,Stationery,1,12.13,0.15,10.31,9.44
+ORD01001,2025-07-05,C0029,North,Online,Desk,Furniture,1,327.67,0.0,327.67,176.38
+ORD01002,2025-08-14,C0205,West,In-store,Pen Set,Stationery,5,12.39,0.15,52.66,46.34
+ORD01003,2025-12-02,C0151,South,In-store,Laptop,Electronics,1,716.26,0.0,716.26,406.06
+ORD01004,2025-07-07,C0228,East,In-store,Pen Set,Stationery,4,14.75,0.15,50.15,33.03
+ORD01005,2025-02-16,C0210,North,Online,Coffee Maker,Home,1,49.72,0.0,49.72,39.63
+ORD01006,2025-06-04,C0110,South,In-store,Office Chair,Furniture,1,122.36,0.0,122.36,100.12
+ORD01007,2025-06-18,C0069,West,Online,Storage Box,Home,1,16.14,0.05,15.33,10.59
+ORD01008,2025-10-02,C0240,East,Online,Coffee Maker,Home,5,98.73,0.05,468.97,314.86
+ORD01009,2025-04-26,C0121,West,Online,Office Chair,Furniture,3,202.28,0.05,576.5,470.13
+ORD01010,2025-04-07,C0010,North,In-store,Laptop,Electronics,2,723.79,0.1,1302.82,1103.72
+ORD01011,2025-09-28,C0097,West,In-store,Pen Set,Stationery,5,4.85,0.05,23.04,15.03
+ORD01012,2025-04-23,C0055,North,Online,Desk,Furniture,4,215.52,0.0,862.08,685.85
+ORD01013,2025-06-04,C0044,East,Online,Laptop,Electronics,1,1095.98,0.05,1041.18,775.68
+ORD01014,2025-11-21,C0206,East,Online,Laptop,Electronics,1,755.54,0.0,755.54,522.69
+ORD01015,2025-12-10,C0193,North,In-store,Laptop,Electronics,4,920.39,0.0,3681.56,2299.46
+ORD01016,2025-09-07,C0028,East,Online,Laptop,Electronics,1,988.94,0.1,890.05,802.76
+ORD01017,2025-06-06,C0130,East,Online,Laptop,Electronics,1,1001.09,0.0,1001.09,686.61
+ORD01018,2025-07-19,C0201,North,Online,Coffee Maker,Home,2,85.85,0.2,137.36,139.75
+ORD01019,2025-01-16,C0145,North,In-store,Office Chair,Furniture,5,112.06,0.05,532.28,335.26
+ORD01020,2025-07-23,C0184,South,Online,Desk,Furniture,1,254.68,0.0,254.68,198.38
+ORD01021,2025-03-25,C0088,North,Online,Laptop,Electronics,3,1027.79,0.0,3083.37,1664.69
+ORD01022,2025-07-05,C0002,South,In-store,Headphones,Electronics,5,107.89,0.0,539.45,327.04
+ORD01023,2025-04-24,C0064,East,Online,Pen Set,Stationery,2,6.95,0.0,13.9,11.22
+ORD01024,2025-11-13,C0107,South,In-store,Headphones,Electronics,1,54.34,0.0,54.34,29.82
+ORD01025,2025-04-07,C0157,West,In-store,Notebook Pack,Stationery,4,14.83,0.0,59.32,47.19
+ORD01026,2025-10-07,C0174,North,Online,Coffee Maker,Home,2,76.6,0.0,153.2,99.08
+ORD01027,2025-07-20,C0011,North,In-store,Desk,Furniture,3,101.58,0.15,259.03,221.49
+ORD01028,2025-12-03,C0137,East,Online,Office Chair,Furniture,1,321.81,0.1,289.63,225.51
+ORD01029,2025-12-20,C0168,West,Online,Office Chair,Furniture,1,345.06,0.05,327.81,220.03
+ORD01030,2025-10-14,C0238,West,Online,Desk,Furniture,2,382.71,0.05,727.15,483.33
+ORD01031,2025-01-09,C0127,North,In-store,Laptop,Electronics,5,1096.26,0.1,4933.17,3176.56
+ORD01032,2025-01-08,C0064,North,Online,Pen Set,Stationery,1,10.47,0.1,9.42,8.08
+ORD01033,2025-11-17,C0117,East,Online,Headphones,Electronics,3,31.84,0.05,90.74,72.26
+ORD01034,2025-12-24,C0238,South,Online,Desk,Furniture,5,302.37,0.05,1436.26,1039.61
+ORD01035,2025-04-16,C0163,North,In-store,Headphones,Electronics,5,86.34,0.0,431.7,228.55
+ORD01036,2025-07-09,C0180,South,Online,Laptop,Electronics,3,860.09,0.1,2322.24,1533.46
+ORD01037,2025-08-31,C0167,West,Online,Notebook Pack,Stationery,2,6.74,0.05,12.81,8.81
+ORD01038,2025-04-11,C0036,North,Online,Notebook Pack,Stationery,1,11.14,0.0,11.14,7.42
+ORD01039,2025-03-25,C0105,West,Online,Desk,Furniture,3,463.17,0.05,1320.03,1063.74
+ORD01040,2025-06-10,C0019,South,In-store,Office Chair,Furniture,1,199.39,0.1,179.45,153.82
+ORD01041,2025-12-19,C0043,East,Online,Pen Set,Stationery,1,3.45,0.1,3.11,1.97
+ORD01042,2025-04-04,C0232,North,Online,Storage Box,Home,4,30.8,0.05,117.04,94.86
+ORD01043,2025-06-19,C0086,West,Online,Desk,Furniture,2,465.08,0.15,790.64,665.31
+ORD01044,2025-12-13,C0059,South,In-store,Desk,Furniture,4,453.97,0.0,1815.88,973.84
+ORD01045,2025-09-20,C0202,North,Online,Desk,Furniture,2,129.85,0.15,220.74,137.95
+ORD01046,2025-10-25,C0054,South,In-store,Desk,Furniture,1,337.49,0.0,337.49,179.08
+ORD01047,2025-08-30,C0158,East,Online,Headphones,Electronics,4,141.24,0.0,564.96,424.24
+ORD01048,2025-10-04,C0021,North,In-store,Desk,Furniture,3,435.45,0.1,1175.71,877.08
+ORD01049,2025-04-09,C0214,West,In-store,Office Chair,Furniture,2,277.12,0.15,471.1,439.15
+ORD01050,2025-08-23,C0192,South,In-store,Headphones,Electronics,1,149.7,0.1,134.73,90.37
+ORD01051,2025-10-26,C0120,West,Online,Headphones,Electronics,5,105.83,0.0,529.15,389.86
+ORD01052,2025-01-29,C0204,South,In-store,Pen Set,Stationery,3,7.19,0.1,19.41,12.23
+ORD01053,2025-01-16,C0037,South,In-store,Storage Box,Home,5,33.6,0.05,159.6,114.15
+ORD01054,2025-11-18,C0145,South,Online,Desk,Furniture,4,192.36,0.05,730.97,599.83
+ORD01055,2025-08-11,C0045,North,Online,Notebook Pack,Stationery,2,15.85,0.1,28.53,20.32
+ORD01056,2025-06-14,C0230,West,Online,Desk,Furniture,1,303.68,0.05,288.5,225.9
+ORD01057,2025-04-07,C0081,West,In-store,Desk,Furniture,3,160.37,0.1,433.0,376.18
+ORD01058,2025-02-03,C0109,South,In-store,Storage Box,Home,2,18.51,0.1,33.32,29.85
+ORD01059,2025-07-03,C0166,South,Online,Desk,Furniture,4,409.02,0.15,1390.67,1225.37
+ORD01060,2025-10-13,C0120,West,Online,Office Chair,Furniture,5,175.33,0.15,745.15,589.45
+ORD01061,2025-07-26,C0154,West,Online,Office Chair,Furniture,1,225.21,0.0,225.21,175.84
+ORD01062,2025-08-17,C0050,South,Online,Desk,Furniture,2,321.36,0.1,578.45,504.12
+ORD01063,2025-04-24,C0169,East,In-store,Storage Box,Home,2,18.52,0.0,37.04,22.55
+ORD01064,2025-04-03,C0112,South,In-store,Office Chair,Furniture,5,273.49,0.15,1162.33,981.24
+ORD01065,2025-08-12,C0211,South,Online,Headphones,Electronics,1,67.74,0.0,67.74,55.06
+ORD01066,2025-06-02,C0151,North,In-store,Headphones,Electronics,3,74.42,0.0,223.26,156.36
+ORD01067,2025-06-17,C0038,South,Online,Coffee Maker,Home,3,102.39,0.15,261.09,174.57
+ORD01068,2025-02-08,C0126,North,Online,Laptop,Electronics,1,757.07,0.1,681.36,612.22
+ORD01069,2025-06-16,C0051,South,In-store,Pen Set,Stationery,1,3.22,0.1,2.9,2.09
+ORD01070,2025-07-09,C0038,East,In-store,Notebook Pack,Stationery,5,10.3,0.0,51.5,40.35
+ORD01071,2025-02-13,C0127,West,Online,Office Chair,Furniture,4,264.06,0.1,950.62,574.64
+ORD01072,2025-04-14,C0095,East,Online,Laptop,Electronics,2,906.69,0.0,1813.38,1166.63
+ORD01073,2025-04-26,C0220,West,Online,Laptop,Electronics,3,979.53,0.05,2791.66,1974.94
+ORD01074,2025-11-15,C0139,West,In-store,Coffee Maker,Home,2,94.34,0.15,160.38,145.55
+ORD01075,2025-11-08,C0037,South,In-store,Headphones,Electronics,1,131.96,0.05,125.36,95.69
+ORD01076,2025-02-11,C0069,West,In-store,Office Chair,Furniture,1,217.62,0.0,217.62,156.73
+ORD01077,2025-09-27,C0174,North,In-store,Desk,Furniture,1,304.18,0.1,273.76,178.7
+ORD01078,2025-05-02,C0064,West,In-store,Pen Set,Stationery,4,9.67,0.15,32.88,23.01
+ORD01079,2025-08-14,C0208,East,In-store,Storage Box,Home,4,22.86,0.1,82.3,74.76
+ORD01080,2025-07-30,C0011,South,Online,Laptop,Electronics,1,1084.67,0.05,1030.44,644.34
+ORD01081,2025-09-11,C0112,East,In-store,Coffee Maker,Home,1,142.9,0.1,128.61,116.06
+ORD01082,2025-11-28,C0159,East,In-store,Office Chair,Furniture,1,95.34,0.2,76.27,57.04
+ORD01083,2025-05-02,C0039,South,Online,Coffee Maker,Home,3,140.22,0.0,420.66,274.52
+ORD01084,2025-03-09,C0141,East,In-store,Office Chair,Furniture,2,327.86,0.0,655.72,454.92
+ORD01085,2025-12-02,C0010,West,In-store,Coffee Maker,Home,1,152.56,0.0,152.56,106.28
+ORD01086,2025-10-05,C0036,North,Online,Coffee Maker,Home,1,53.32,0.1,47.99,30.12
+ORD01087,2025-08-21,C0157,North,Online,Pen Set,Stationery,5,5.53,0.0,27.65,22.42
+ORD01088,2025-05-11,C0053,South,Online,Laptop,Electronics,5,838.34,0.2,3353.36,2560.32
+ORD01089,2025-01-05,C0021,West,Online,Notebook Pack,Stationery,2,7.84,0.2,12.54,11.47
+ORD01090,2025-07-02,C0042,West,In-store,Desk,Furniture,3,149.18,0.1,402.79,300.61
+ORD01091,2025-04-10,C0060,North,In-store,Storage Box,Home,1,42.15,0.05,40.04,25.19
+ORD01092,2025-12-18,C0135,South,Online,Laptop,Electronics,1,1046.89,0.0,1046.89,815.58
+ORD01093,2025-01-31,C0019,East,Online,Coffee Maker,Home,5,50.79,0.05,241.25,197.12
+ORD01094,2025-08-02,C0056,East,In-store,Storage Box,Home,4,24.74,0.05,94.01,54.97
+ORD01095,2025-08-07,C0166,West,In-store,Desk,Furniture,5,330.11,0.05,1568.02,1163.59
+ORD01096,2025-04-18,C0128,North,In-store,Pen Set,Stationery,1,10.74,0.1,9.67,6.98
+ORD01097,2025-03-14,C0182,West,In-store,Desk,Furniture,5,487.56,0.2,1950.24,1867.89
+ORD01098,2025-08-11,C0043,North,In-store,Pen Set,Stationery,2,8.75,0.0,17.5,9.12
+ORD01099,2025-11-07,C0124,South,In-store,Coffee Maker,Home,2,63.04,0.1,113.47,82.01
+ORD01100,2025-12-27,C0084,North,Online,Storage Box,Home,4,17.04,0.0,68.16,37.35
+ORD01101,2025-07-20,C0028,North,Online,Laptop,Electronics,5,799.43,0.0,3997.15,2956.48
+ORD01102,2025-08-11,C0054,South,Online,Coffee Maker,Home,1,44.12,0.0,44.12,32.41
+ORD01103,2025-06-04,C0027,North,In-store,Notebook Pack,Stationery,1,17.79,0.0,17.79,11.45
+ORD01104,2025-12-10,C0065,North,Online,Headphones,Electronics,1,150.32,0.0,150.32,78.3
+ORD01105,2025-08-14,C0219,South,In-store,Laptop,Electronics,2,1003.0,0.1,1805.4,1164.44
+ORD01106,2025-08-30,C0015,South,Online,Pen Set,Stationery,4,13.57,0.1,48.85,41.13
+ORD01107,2025-06-28,C0169,East,In-store,Laptop,Electronics,5,1086.64,0.05,5161.54,2863.88
+ORD01108,2025-08-05,C0082,South,Online,Headphones,Electronics,4,122.38,0.0,489.52,265.12
+ORD01109,2025-12-09,C0075,East,In-store,Storage Box,Home,1,32.44,0.2,25.95,23.38
+ORD01110,2025-04-17,C0091,South,Online,Notebook Pack,Stationery,5,12.4,0.2,49.6,46.9
+ORD01111,2025-06-02,C0213,East,In-store,Office Chair,Furniture,4,125.3,0.15,426.02,298.98
+ORD01112,2025-10-16,C0115,North,Online,Coffee Maker,Home,5,55.0,0.15,233.75,173.32
+ORD01113,2025-08-22,C0105,West,In-store,Notebook Pack,Stationery,3,13.56,0.0,40.68,26.47
+ORD01114,2025-08-25,C0110,North,In-store,Laptop,Electronics,1,1013.29,0.15,861.3,707.41
+ORD01115,2025-07-18,C0085,South,Online,Headphones,Electronics,2,171.03,0.15,290.75,235.13
+ORD01116,2025-08-03,C0015,North,Online,Desk,Furniture,4,456.95,0.15,1553.63,1200.64
+ORD01117,2025-09-23,C0030,South,In-store,Office Chair,Furniture,3,277.67,0.1,749.71,491.67
+ORD01118,2025-06-25,C0030,South,In-store,Storage Box,Home,1,24.96,0.05,23.71,14.23
+ORD01119,2025-08-02,C0038,North,In-store,Notebook Pack,Stationery,3,6.17,0.15,15.73,11.35
+ORD01120,2025-01-15,C0202,South,Online,Pen Set,Stationery,2,11.88,0.15,20.2,16.81
+ORD01121,2025-11-03,C0091,North,Online,Desk,Furniture,1,267.36,0.0,267.36,173.03
+ORD01122,2025-04-27,C0067,East,In-store,Laptop,Electronics,2,1063.55,0.1,1914.39,1620.53
+ORD01123,2025-10-05,C0192,West,In-store,Coffee Maker,Home,2,42.78,0.2,68.45,44.87
+ORD01124,2025-03-21,C0080,West,Online,Coffee Maker,Home,2,107.81,0.05,204.84,116.04
+ORD01125,2025-12-17,C0024,North,In-store,Laptop,Electronics,2,985.99,0.05,1873.38,1294.88
+ORD01126,2025-03-10,C0066,West,Online,Laptop,Electronics,3,1077.57,0.15,2747.8,2106.11
+ORD01127,2025-05-13,C0213,South,In-store,Coffee Maker,Home,2,83.78,0.0,167.56,89.34
+ORD01128,2025-08-05,C0163,South,Online,Storage Box,Home,5,19.74,0.1,88.83,75.96
+ORD01129,2025-06-27,C0095,West,In-store,Coffee Maker,Home,2,75.31,0.1,135.56,99.32
+ORD01130,2025-01-20,C0093,East,In-store,Notebook Pack,Stationery,3,9.53,0.05,27.16,17.91
+ORD01131,2025-04-12,C0093,North,In-store,Desk,Furniture,1,346.79,0.0,346.79,248.51
+ORD01132,2025-02-04,C0173,West,Online,Desk,Furniture,4,403.3,0.15,1371.22,1020.25
+ORD01133,2025-01-28,C0140,West,Online,Pen Set,Stationery,4,10.58,0.1,38.09,31.82
+ORD01134,2025-02-11,C0038,West,Online,Notebook Pack,Stationery,5,9.7,0.1,43.65,32.39
+ORD01135,2025-01-08,C0186,West,In-store,Storage Box,Home,2,27.47,0.2,43.95,35.56
+ORD01136,2025-10-05,C0069,South,Online,Headphones,Electronics,4,77.4,0.0,309.6,207.6
+ORD01137,2025-10-09,C0046,West,In-store,Pen Set,Stationery,3,4.48,0.2,10.75,9.64
+ORD01138,2025-04-28,C0009,East,In-store,Desk,Furniture,3,329.75,0.1,890.33,518.85
+ORD01139,2025-09-23,C0179,West,In-store,Notebook Pack,Stationery,1,10.91,0.1,9.82,6.52
+ORD01140,2025-04-09,C0039,West,In-store,Desk,Furniture,5,122.37,0.1,550.67,498.67
+ORD01141,2025-09-23,C0238,West,Online,Pen Set,Stationery,3,11.67,0.0,35.01,24.52
+ORD01142,2025-08-08,C0101,West,Online,Headphones,Electronics,1,56.28,0.2,45.02,46.08
+ORD01143,2025-07-30,C0098,North,Online,Pen Set,Stationery,3,4.67,0.0,14.01,8.27
+ORD01144,2025-08-07,C0027,North,Online,Headphones,Electronics,2,58.7,0.15,99.79,64.05
+ORD01145,2025-06-19,C0086,East,In-store,Notebook Pack,Stationery,2,11.25,0.0,22.5,16.08
+ORD01146,2025-07-11,C0137,South,In-store,Pen Set,Stationery,2,8.25,0.05,15.67,9.7
+ORD01147,2025-12-10,C0079,West,In-store,Laptop,Electronics,5,1022.83,0.0,5114.15,2755.85
+ORD01148,2025-06-25,C0193,East,Online,Desk,Furniture,1,474.92,0.2,379.94,307.6
+ORD01149,2025-10-18,C0151,West,Online,Notebook Pack,Stationery,3,12.71,0.0,38.13,20.56
+ORD01150,2025-03-23,C0030,East,In-store,Headphones,Electronics,1,168.57,0.0,168.57,118.09
+ORD01151,2025-05-30,C0127,East,In-store,Office Chair,Furniture,4,270.9,0.0,1083.6,718.75
+ORD01152,2025-04-08,C0195,North,In-store,Pen Set,Stationery,5,14.85,0.05,70.54,55.25
+ORD01153,2025-07-29,C0178,North,In-store,Pen Set,Stationery,3,12.0,0.15,30.6,22.49
+ORD01154,2025-02-02,C0143,South,In-store,Office Chair,Furniture,4,285.31,0.1,1027.12,737.28
+ORD01155,2025-07-20,C0041,North,In-store,Office Chair,Furniture,2,157.73,0.15,268.14,193.28
+ORD01156,2025-09-13,C0174,North,In-store,Headphones,Electronics,3,113.96,0.1,307.69,243.82
+ORD01157,2025-01-08,C0136,West,Online,Storage Box,Home,5,10.51,0.0,52.55,38.49
+ORD01158,2025-07-05,C0144,West,In-store,Notebook Pack,Stationery,2,9.36,0.1,16.85,13.8
+ORD01159,2025-12-23,C0214,West,In-store,Pen Set,Stationery,5,10.14,0.2,40.56,28.18
+ORD01160,2025-06-06,C0115,North,In-store,Pen Set,Stationery,1,6.46,0.1,5.81,4.07
+ORD01161,2025-04-17,C0043,West,In-store,Office Chair,Furniture,2,239.86,0.05,455.73,263.26
+ORD01162,2025-03-25,C0042,West,Online,Notebook Pack,Stationery,5,12.37,0.1,55.66,46.52
+ORD01163,2025-09-14,C0229,West,Online,Headphones,Electronics,5,111.99,0.0,559.95,429.04
+ORD01164,2025-10-04,C0170,South,In-store,Coffee Maker,Home,1,155.95,0.2,124.76,93.93
+ORD01165,2025-12-30,C0152,East,Online,Office Chair,Furniture,5,245.41,0.0,1227.05,639.97
+ORD01166,2025-12-07,C0062,North,In-store,Headphones,Electronics,1,165.58,0.05,157.3,125.69
+ORD01167,2025-11-13,C0094,North,In-store,Pen Set,Stationery,3,13.37,0.1,36.1,29.8
+ORD01168,2025-07-08,C0127,North,Online,Notebook Pack,Stationery,1,16.46,0.05,15.64,12.57
+ORD01169,2025-04-03,C0127,South,In-store,Laptop,Electronics,3,690.49,0.2,1657.18,1080.58
+ORD01170,2025-10-01,C0233,North,In-store,Headphones,Electronics,5,84.14,0.0,420.7,222.16
+ORD01171,2025-07-06,C0236,North,In-store,Storage Box,Home,3,20.48,0.05,58.37,33.8
+ORD01172,2025-04-10,C0061,East,Online,Notebook Pack,Stationery,1,12.57,0.15,10.68,6.54
+ORD01173,2025-04-08,C0030,West,In-store,Headphones,Electronics,3,50.75,0.1,137.03,83.86
+ORD01174,2025-04-06,C0223,South,Online,Storage Box,Home,2,32.43,0.0,64.86,35.39
+ORD01175,2025-02-06,C0231,South,Online,Storage Box,Home,5,22.13,0.0,110.65,74.47
+ORD01176,2025-12-24,C0054,North,Online,Storage Box,Home,2,21.66,0.05,41.15,24.15
+ORD01177,2025-04-26,C0034,West,Online,Coffee Maker,Home,5,105.92,0.05,503.12,302.49
+ORD01178,2025-01-26,C0015,East,In-store,Office Chair,Furniture,1,187.96,0.15,159.77,138.32
+ORD01179,2025-05-08,C0170,South,In-store,Desk,Furniture,1,366.14,0.0,366.14,223.74
+ORD01180,2025-04-02,C0111,South,In-store,Coffee Maker,Home,2,59.61,0.2,95.38,66.13
+ORD01181,2025-10-05,C0202,East,In-store,Coffee Maker,Home,2,133.34,0.0,266.68,189.28
+ORD01182,2025-03-03,C0066,East,In-store,Pen Set,Stationery,2,5.17,0.0,10.34,6.87
+ORD01183,2025-07-15,C0185,South,Online,Coffee Maker,Home,3,117.9,0.0,353.7,234.74
+ORD01184,2025-01-29,C0003,West,Online,Headphones,Electronics,4,77.62,0.0,310.48,214.72
+ORD01185,2025-10-19,C0011,South,Online,Office Chair,Furniture,2,256.77,0.1,462.19,319.03
+ORD01186,2025-12-06,C0141,East,In-store,Storage Box,Home,3,33.13,0.05,94.42,75.73
+ORD01187,2025-08-02,C0166,East,Online,Desk,Furniture,3,191.95,0.1,518.26,368.4
+ORD01188,2025-04-17,C0209,West,Online,Storage Box,Home,3,18.76,0.2,45.02,34.62
+ORD01189,2025-11-05,C0074,West,Online,Coffee Maker,Home,3,88.57,0.1,239.14,148.57
+ORD01190,2025-01-10,C0163,West,Online,Office Chair,Furniture,3,125.35,0.0,376.05,275.8
+ORD01191,2025-08-08,C0172,East,In-store,Desk,Furniture,2,406.19,0.0,812.38,630.08
+ORD01192,2025-02-23,C0184,North,In-store,Office Chair,Furniture,2,279.36,0.1,502.85,384.14
+ORD01193,2025-01-11,C0139,West,In-store,Storage Box,Home,5,37.92,0.1,170.64,147.27
+ORD01194,2025-06-14,C0040,South,In-store,Headphones,Electronics,1,115.88,0.05,110.09,80.1
+ORD01195,2025-01-08,C0101,South,Online,Storage Box,Home,1,34.56,0.0,34.56,23.51
+ORD01196,2025-03-07,C0131,North,Online,Notebook Pack,Stationery,2,14.3,0.1,25.74,17.95
+ORD01197,2025-05-12,C0234,West,Online,Laptop,Electronics,5,1157.28,0.0,5786.4,3458.28
+ORD01198,2025-05-21,C0086,East,Online,Pen Set,Stationery,2,3.81,0.05,7.24,4.56
+ORD01199,2025-04-21,C0159,North,Online,Headphones,Electronics,3,106.63,0.0,319.89,219.5
+ORD01200,2025-05-23,C0230,West,In-store,Coffee Maker,Home,2,46.99,0.15,79.88,68.74

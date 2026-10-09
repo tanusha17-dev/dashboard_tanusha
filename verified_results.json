@@ -1,0 +1,19 @@
+{
+  "rows": 1200,
+  "total_revenue": 674892.65,
+  "estimated_cost": 477386.17,
+  "estimated_gross_profit": 197506.48,
+  "estimated_gross_margin_pct": 29.26,
+  "distinct_orders": 1200,
+  "unique_customers": 238,
+  "average_order_value": 562.41,
+  "top_category": "Electronics",
+  "top_product": "Laptop",
+  "top_region": "West",
+  "top_channel": "Online",
+  "highest_revenue_month": "2025-04",
+  "lowest_revenue_month": "2025-09",
+  "missing_cells": 0,
+  "duplicate_rows": 0,
+  "revenue_formula_mismatches": 0
+}
