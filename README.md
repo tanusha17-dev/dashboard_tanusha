@@ -59,3 +59,6 @@ Analyzed 1,200 synthetic retail transaction records to evaluate revenue, estimat
 - Costs are randomly simulated; margin figures are illustrative, not accounting-grade.
 - Returns, inventory, shipping, marketing spend, and order status are not included.
 - Do not describe this as client or employer work.
+
+- <img width="1318" height="742" alt="image" src="https://github.com/user-attachments/assets/bc5c6901-e5a8-45e3-a297-3fbf3db556ab" />
+
